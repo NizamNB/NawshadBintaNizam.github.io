@@ -107,8 +107,11 @@ I have participated in multiple student competitions during my undergraduate.
 </center>
 
 Team: BUET Ravenclaw
+
 Undergraduate Team Members: [from left] Sheikh Asif Imran Shouborno, Md. Mushfiqur Rahman, Md. Tariqul Islam & **K M Naimul Hassan**
+
 Supervisor: Dr. Mohammad Ariful Haque
+
 Final at 26th IEEE Conference on Image Processing (ICIP) 2019, Taipei, Taiwan
 
 [vip2019]: http://naimulhassan.github.io/content/papers/vip2019.pdf
@@ -122,8 +125,11 @@ Final at 26th IEEE Conference on Image Processing (ICIP) 2019, Taipei, Taiwan
 </center>
 
 Team: BUET Andromeda
+
 Undergraduate Team Members: Shafin Bin Hamid, Munshi Sanowar Raihan, Ashiqur Rasul, Himaddri Roy, Prasun Datta, Mushfiqur Rahman & **K M Naimul Hassan**
+
 Supervisor: Dr. Mohammad Ariful Haque
+
 Final at 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020, Barcelona, Spain. [Organized as a Virtual Conference]
 
 [sp2020]: http://naimulhassan.github.io/content/papers/sp2020.pdf
