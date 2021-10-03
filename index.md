@@ -2,96 +2,137 @@
 layout: home
 ---
 
-🎉 Exciting news! I couldn't be happier to announce that I've accepted an assistant professor position at the University of Pennsylvania in the [Computer and Information Science department][penncis], with a secondary appointment in the [Annenberg School for Communication][pennasc]. I'll begin in Fall 2022, and [Andrew Head][amh] and I will be the founding faculty members of the Penn HCI group. **Prospective students: send us an email!** In the meantime, I am joining Stanford's [Center of Philanthropy and Civil Society][pacs] as a postdoctoral scholar with the [Program on Democracy and the Internet][pdi]. 
+🎉 I first became interested in artificial neural networks (ANN) when I first read a blog by Richard Nagyfi titled as [The differences between Artificial and Biological Neural Networks][ANN]. ANNs are inspired by how millions of neurons in the human brain make decisions. Though there are many differences between artificial and biological neural networks, extensive research to train machines to think like a human brain has always fascinated me. I am currently working on sound event detection with the help of source separation. I will try to provide updates here.
 
-I'm a sixth year Ph.D. candidate in [Computer Science][cs] at [Stanford University][stanford] in the [Human-Computer Interaction Group][hci], co-advised by [James Landay][landay] (Computer Science) and [Jeff Hancock][hancock] (Communication). In my research, I develop and deploy methods for studying **bias and representation in algorithms and algorithmic content**, focusing on high-stakes social settings like politics and employment, and on the experiences of maginalized people. 
+[ANN]: https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7
 
-[cs]: http://www-cs.stanford.edu/
-[stanford]: https://www.stanford.edu/
+I'm a a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Research Assistant in the same department, supervised by Prof. Dr. Mohammad Ariful Haque. My primary research interests include **applied deep learning & investigation of neural networks**. Apart from that, I have research experience on optimised load management of Smart Grids (SG)
+
+[EEE]: http://www.eee.buet.ac.bd/
+[BUET]: https://www.buet.ac.bd/
 [hci]:http://hci.stanford.edu/
 [hancock]: https://comm.stanford.edu/faculty-hancock/
-[landay]: https://profiles.stanford.edu/james-landay
 [penncis]: https://www.cis.upenn.edu
 [pennasc]: https://www.asc.upenn.edu
 [pacs]: https://pacscenter.stanford.edu
 [pdi]: https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/
 [amh]: http://andrewhead.info
 
-Projects I've worked on include gender and race representation in search algorithms (_in submission_), [stereotypes and inclusivity in web interfaces][gender-inclusive], [the role of search media in elections][search media], and [social capital during disaster events][disasters].
+Projects I've worked on include [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], and [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
 
-[search media]: https://dl.acm.org/doi/abs/10.1145/3359231
-[disasters]: https://dl.acm.org/citation.cfm?id=3274391
-[gender-inclusive]: https://dl.acm.org/citation.cfm?id=3173574.3174188
+[sound-source-localization]: https://doi.org/10.1186/s13636-020-00184-2
+[doa-estimation]: https://doi.org/10.1109/SPICSCON48833.2019.9065151
+[braille]: https://doi.org/10.1109/SPICSCON48833.2019.9065110
+[profile-modelling-sg]: https://doi.org/10.1109/ICECE51571.2020.9393101
 
-In addition to academic publications, I've written for a general audience on topics like [political bias in search results in _The Guardian_][guardian], and [social media sites and democracy in _Wired_][wired]. 
+I graduated with B.Sc. degree in Electrical and [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET] in 2021. 
 
-[wired]: https://www.wired.co.uk/article/how-to-fix-facebook
-[guardian]:https://www.theguardian.com/commentisfree/2018/sep/06/google-search-results-rigged-news-donald-trump
-
-Before my PhD, I graduated with dual degrees in Computer Science alongside Science, Technology, and Society at Brown University in 2015. 
-
-P.S. My first name is pronounced like the verb "deny". 
+P.S. My nickname is "Prangon". 
 
 ---
 
 ## Research Highlights 
+ 
 
-I have several ongoing threads of research, mainly focusing on bias and representation in algorithmic content, using a combination of computational and behavioral social science methods. 
 
-### Gender and Race Representation in Image Search Results
+### [DOANet: a deep dilated convolutional neural network approach for search and rescue with drone-embedded sound source localization][doanet-ssl]
+
 
 <center style="padding: 10px;">
-<img src="media/author_race_P.png"
-     alt="Search results for the query 'author' with most images of people of color."
+<img src="media/ssl.png"
      style="max-width: 85%;" />
 </center>
 
-**[An Image of Society: Gender and Racial Representation and Impact in Image Search Results for Occupations][image society]**\
-**Danaë Metaxa**, Michelle Gan, Su Goh, James Landay, and Jeff Hancock. _(ACM CSCW 2021)_
+Alif Bin Abdul Qayyum, **K M Naimul Hassan**, Adrita Anika, Md. Farhan Shadiq, Md. Mushfiqur Rahman, Md. Tariqul Islam, Sheikh Asif Imran, Shahruk Hossain & Mohammad Ariful Haque _(Published on November 5, 2020 in EURASIP Journal on Audio, Speech and Music Processing)_
 
-Visual diversity has been the subject of studies in domains like psychology and advertising. But unlike the purposeful persuasive intent behind advertising, algorithmic content like search engine results are compiled automatically and spontaneously in response to user queries. Regardless of intent, the impact on users—say, a young person of color looking for information about their desired career and finding a sea of white faces—may still be substantial. **Do image search results accurately reflect real-world gender and racial diversity? How does visual diversity influence users?**
+Drone-embedded sound source localization (SSL) has interesting application perspective in challenging search and rescue scenarios due to bad lighting conditions or occlusions. However, the problem gets complicated by severe drone ego-noise that may result in negative signal-to-noise ratios in the recorded microphone signals. In this paper, we present our work on drone-embedded SSL using recordings from an 8-channel cube-shaped microphone array embedded in an unmanned aerial vehicle (UAV). We use angular spectrum-based TDOA (time difference of arrival) estimation methods such as generalized cross-correlation phase-transform (GCC-PHAT), minimum-variance-distortion-less-response (MVDR) as baseline, which are state-of-the-art techniques for SSL. Though we improve the baseline method by reducing ego-noise using speed correlated harmonics cancellation (SCHC) technique, our main focus is to utilize deep learning techniques to solve this challenging problem. Here, we propose an end-to-end deep learning model, called DOANet, for SSL. DOANet is based on a one-dimensional dilated convolutional neural network that computes the azimuth and elevation angles of the target sound source from the raw audio signal. The advantage of using DOANet is that it does not require any hand-crafted audio features or ego-noise reduction for DOA estimation. We then evaluate the SSL performance using the proposed and baseline methods and find that the DOANet shows promising results compared to both the angular spectrum methods with and without SCHC. To evaluate the different methods, we also introduce a well-known parameter—area under the curve (AUC) of cumulative histogram plots of angular deviations—as a performance indicator which, to our knowledge, has not been used as a performance indicator for this sort of problem before.
 
-In this project, currently in submission, we conducted an audit examining the results of Google Image queries for fifty common occupations, found that women and people of color were underrepresented relative to men and whites, and that the degree of this underrepresentation was not reflective of workforce participation. We then conducted a randomized controlled study exposing participants to a search results varying degrees of gender and racial diversity, finding that participants perceived occupations to be more inclusive when search results showed more women or people of color, and that participants’ interest in joining an occupation was greater when more people of color were represented. However, increasing the proportion of women actually decreased participant interest in some cases (perhaps an effect of perceived occupational feminization). We also examined the influence of participants’ own identities on their experience of image search results, finding that marginalized identity mediated participants’ expectation of being valued (e.g., greater representation of women was received positively by women participants but in some cases had a negative impact on men). Designing technology for inclusivity and belonging requires satisfying a complex and sometimes contradictory set of constraints; there is no silver bullet solution to make algorithms “fair” for all.
+[doanet-ssl]: http://naimulhassan.github.io/content/papers/doanet-ssl.pdf
 
-[image society]: http://metaxa.net/content/papers/ImageSociety_2020.pdf
 
-### Inclusive Web Design
+
+### [Electrical Power Consumption Profile Modelling of of Air Conditioner for Smart Grid Load Management][profile-modelling]
+
 
 <center style="padding: 10px;">
-<img src="media/ambientbelonging_stimuli.png"
-     alt="Two versions of an introductory course webpage"
+<img src="media/sg.png"
      style="max-width: 85%;" />
 </center>
 
-**[Gender-Inclusive Design: Belonging and Bias in Web Interfaces][ambient belonging]**\
-**Danaë Metaxa**, Kelly Wang, James Landay, and Jeff Hancock. _(ACM CHI 2018)_
+**K M Naimul Hassan**, Soumav Biswas & Md. Forkan Uddin _(Published in 2020 11th International Conference on Electrical and Computer Engineering (ICECE))_
 
-Psychology theory suggests that people's ambient environments can cue stereotypes and influence their sense of belonging. Do digital spaces also impact self perception and choices? To answer this question, we ran a randomized controlled experiment to investigate, designing two different versions of a computer science course webpage altering only the aesthetics of the page but not its content. College-aged participants were either exposed to a course page with a neutral theme (i.e., images of trees, standard sans serif fonts) or one designed to evoke stereotypical ideas of computer science (i.e., star trek imagery, green text on a black background resembling a computer console). We found that, while men showed little preference for either website, women were negatively impacted by the stereotypical interface—they were less likely to feel they belonged in the course, less optimistic about their future performance, less interested in taking the course, and less interested in studying computer science at all. On the whole, women were 20% less likely to want to enroll in the course, a deterring effect of about twice that on men. This work uses gender bias as a case study supporting literature from psychology and translating it to a digital context; biases in online content can significantly impact users’ psychological sense of belonging, beliefs about themselves, and expected future behaviors. 
+Air conditioning (AC) system will be an inherent part of smart grid (SG) demand response as it is responsible for a substantial amount of power consumption in total infrastructure. It is invaluable to estimate the nature of operational characteristics of AC compressors in order to implement associated optimization strategy for energy preservation in residential premises. In this paper, the electrical power consumption profile, i.e., On-time and Off-time durations and power consumptions during these time durations is modelled for a split type AC compressor in terms of co-efficient of performance, AC capacity and environment condition. Dead-band temperature and room dimensions are considered as environment condition and the effect of various parameters on On-time and Off-time durations and energy consumption is studied. The factors that can be optimized to reduce the energy consumption are also analyzed.
 
-[ambient belonging]: http://metaxa.net/content/papers/InclusiveDesign_CHI18.pdf
+[profile-modelling]: http://naimulhassan.github.io/content/papers/profile-modelling-sg.pdf
 
-### Algorithm Audits: Past, Present, and Best Practices
 
-_Manuscript in preparation in collaboration with Joon Sung Park, Ronald E. Robertson, Karrie Karahalios, Christo Wilson, and Christian Sandvig._
 
-Conducting a rigorous and effective algorithm audit like those I often deploy in my work entails legal and ethical challenges, as well as technical ones. I am currently leading a collaboration between leading algorithm audit researchers at Stanford, the University of Illinois at Urbana-Champaign, Northeastern University, and the University of Michigan to produce a journal article explaining the intellectual and scientific contributions of this important and versatile method, along with guidelines and best practices—technical, legal, and ethical—for conducting successful audit studies.
+### [A Dual-Purpose Refreshable Braille Display Based on Real Time Object Detection and Optical Character Recognition][dual-braille]
+
+
+<center style="padding: 10px;">
+<img src="media/braille.png"
+     style="max-width: 85%;" />
+</center>
+
+**K M Naimul Hassan**, Subrata Kumar Biswas, Md. Shakil Anwar, Md. Shakhrul Iman Siam & Celia Shahnaz _(Published in 2019 IEEE International Conference on Signal Processing, Information, Communication & Systems (SPICSCON))_
+
+This paper proposes a dual-purpose braille system for the visually impaired people. There are two main features of this system- object detection and optical character recognition. Real time object detection will help a visually impaired person to know about the things around him and optical character recognition will help him reading characters in both international (English) and local community (Bengali)
+language. In this paper, the detailed methodology of our proposed method is described. A pre-trained convolutional neural network (AlexNet) is used for classifying the objects and an OCR engine (Tesseract) along with basic image processing is used for optical character recognition. A refreshable braille display is also designed to show the braille characters.
+
+[dual-braille]: http://naimulhassan.github.io/content/papers/dual-purpose-braille.pdf
+
+
 
 ---
 
 ## Other Recent Publications
 For a complete list of my academic publications, see my [Google Scholar page][scholar].
 
-[scholar]: https://scholar.google.com/citations?user=6pA2wn4AAAAJ
+[scholar]: https://scholar.google.com/citations?user=ondPg7wAAAAJ&hl=en&oi=sra
 
-[Random, Messy, Funny, Raw: Finstas as Intimate Reconfigurations of Social Media][finsta]\
-_Best Paper Honorable Mention_\
-Sijia Xiao, **Danaë Metaxa**, Joon Sung Park, Karrie Karahalios, and Niloufar Salehi _(ACM CHI 2020)_
 
-[Search Media and Elections: A Longitudinal Investigation of Political Search Results in the 2018 U.S. Elections][search media]\
-**Danaë Metaxa**, Joon Sung Park, James Landay, and Jeff Hancock (ACM CSCW 2019)
 
-[Glasnost! Nine ways Facebook can make itself a better forum for free speech and democracy][glasnost]\
-Timothy Garton Ash, Robert Gorwa, and **Danaë Metaxa** (Reuters Institute for the Study of Journalism, Oxford)
+---
+## Notable Achievements
 
-[glasnost]: https://reutersinstitute.politics.ox.ac.uk/our-research/glasnost-nine-ways-facebook-can-make-itself-better-forum-free-speech-and-democracy
-[finsta]: https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376424	
+I have participated in multiple student competitions during my undergraduate.
+
+### [IEEE Video and Image Processing (VIP) Cup 2019: Privacy-aware office activity recognition from First Person View (FPV) body cameras][vip2019]
+
+
+<center style="padding: 10px;">
+<img src="media/vip2019.png"
+     style="max-width: 85%;" />
+</center>
+
+Team: BUET Ravenclaw
+Undergraduate Team Members: [from left] Sheikh Asif Imran Shouborno, Md. Mushfiqur Rahman, Md. Tariqul Islam & **K M Naimul Hassan**
+Supervisor: Dr. Mohammad Ariful Haque
+Final at 26th IEEE Conference on Image Processing (ICIP) 2019, Taipei, Taiwan
+
+[vip2019]: http://naimulhassan.github.io/content/papers/vip2019.pdf
+
+### [IEEE Signal Processing (SP) Cup 2020: Unsupervised abnormality detection by using intelligent and heterogenous autonomous system][sp2020]
+
+
+<center style="padding: 10px;">
+<img src="media/sp2020.png"
+     style="max-width: 85%;" />
+</center>
+
+Team: BUET Andromeda
+Undergraduate Team Members: Shafin Bin Hamid, Munshi Sanowar Raihan, Ashiqur Rasul, Himaddri Roy, Prasun Datta, Mushfiqur Rahman & **K M Naimul Hassan**
+Supervisor: Dr. Mohammad Ariful Haque
+Final at 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020, Barcelona, Spain. [Organized as a Virtual Conference]
+
+[sp2020]: http://naimulhassan.github.io/content/papers/sp2020.pdf
+
+
+
+
+---
+## Other Achievements
+For a complete list of honor/achievements, see my [Academic CV][academic-cv].
+
+[academic-cv]: http://naimulhassan.github.io/content/papers/naimulCV.pdf	
