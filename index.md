@@ -32,7 +32,22 @@ P.S. My nickname is "Prangon".
 ---
 
 ## Research Highlights 
- 
+
+
+
+### [ALSNet: A Dilated 1-D CNN for Identifying ALS from Raw EMG Signal][alsnet]
+
+
+<center style="padding: 10px;">
+<img src="media/als.jpg"
+     style="max-width: 85%;" />
+</center>
+
+**K. M. Naimul Hassan**, Md. Shamiul Alam Hridoy, Naima Tasnim, Atia Faria Chowdhury, Tanvir Alam Roni, Sheikh Tabrez, Arik Subhana, Celia Shahnaz _(Published on April 27, 2022 in 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP))_
+
+Amyotrophic Lateral Sclerosis (ALS) is one of the most common neuromuscular diseases which affects both lower and upper motor neurons. In this paper, a dilated one dimensional convolutional neural network, named ALSNet, is proposed for identifying ALS from raw EMG signal. No hand-crafted feature extraction is required, rather, ALSNet is able to take raw EMG signal as input and detect EMG signals of ALS subjects. This makes the method more feasible for practical implementation by reducing the computational cost required for extracting features. To our best knowledge, no research work for identification of ALS from raw EMG signal has been conducted yet. The performance of the ALSNet was evaluated using popular metrics such as overall accuracy, sensitivity, specificity and balanced accuracy and compared with other existing methods. The proposed method showed a better performance than the other existing methods with an overall accuracy of 97.74%.
+
+[alsnet]: http://naimulhassan.github.io/content/papers/alsnet.pdf 
 
 
 ### [DOANet: a deep dilated convolutional neural network approach for search and rescue with drone-embedded sound source localization][doanet-ssl]
@@ -64,23 +79,6 @@ Drone-embedded sound source localization (SSL) has interesting application persp
 Air conditioning (AC) system will be an inherent part of smart grid (SG) demand response as it is responsible for a substantial amount of power consumption in total infrastructure. It is invaluable to estimate the nature of operational characteristics of AC compressors in order to implement associated optimization strategy for energy preservation in residential premises. In this paper, the electrical power consumption profile, i.e., On-time and Off-time durations and power consumptions during these time durations is modelled for a split type AC compressor in terms of co-efficient of performance, AC capacity and environment condition. Dead-band temperature and room dimensions are considered as environment condition and the effect of various parameters on On-time and Off-time durations and energy consumption is studied. The factors that can be optimized to reduce the energy consumption are also analyzed.
 
 [profile-modelling]: http://naimulhassan.github.io/content/papers/profile-modelling-sg.pdf
-
-
-
-### [A Dual-Purpose Refreshable Braille Display Based on Real Time Object Detection and Optical Character Recognition][dual-braille]
-
-
-<center style="padding: 10px;">
-<img src="media/braille.png"
-     style="max-width: 85%;" />
-</center>
-
-**K M Naimul Hassan**, Subrata Kumar Biswas, Md. Shakil Anwar, Md. Shakhrul Iman Siam & Celia Shahnaz _(Published in 2019 IEEE International Conference on Signal Processing, Information, Communication & Systems (SPICSCON))_
-
-This paper proposes a dual-purpose braille system for the visually impaired people. There are two main features of this system- object detection and optical character recognition. Real time object detection will help a visually impaired person to know about the things around him and optical character recognition will help him reading characters in both international (English) and local community (Bengali)
-language. In this paper, the detailed methodology of our proposed method is described. A pre-trained convolutional neural network (AlexNet) is used for classifying the objects and an OCR engine (Tesseract) along with basic image processing is used for optical character recognition. A refreshable braille display is also designed to show the braille characters.
-
-[dual-braille]: http://naimulhassan.github.io/content/papers/dual-purpose-braille.pdf
 
 
 
