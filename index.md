@@ -6,7 +6,7 @@ layout: home
 
 [ANN]: https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7
 
-I'm a a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Research Assistant in the same department, supervised by Prof. Dr. Mohammad Ariful Haque. My primary research interests include **applied deep learning & investigation of neural networks**. Apart from that, I have research experience on optimised load management of Smart Grids (SG)
+I'm a a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Research Assistant in the same department, supervised by Prof. Dr. Mohammad Ariful Haque. My primary research interests include **applied deep learning & investigation of neural networks**. Apart from that, I have research experience on optimised load management of Smart Grids (SG).
 
 [EEE]: http://www.eee.buet.ac.bd/
 [BUET]: https://www.buet.ac.bd/
