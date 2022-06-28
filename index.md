@@ -18,8 +18,9 @@ I'm a a post-graduate (M.Sc.) student from the department of [Electrical and Ele
 [pdi]: https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/
 [amh]: http://andrewhead.info
 
-Projects I've worked on include [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], and [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
+Projects I've worked on include [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], and [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
 
+[als]: https://doi.org/10.1109/ICASSP43922.2022.9747366
 [sound-source-localization]: https://doi.org/10.1186/s13636-020-00184-2
 [doa-estimation]: https://doi.org/10.1109/SPICSCON48833.2019.9065151
 [braille]: https://doi.org/10.1109/SPICSCON48833.2019.9065110
