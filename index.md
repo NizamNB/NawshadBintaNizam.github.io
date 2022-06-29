@@ -8,15 +8,8 @@ layout: home
 
 I'm a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Research Assistant and selected as a Graduate Fellow (M.Sc.) in the same department, supervised by Prof. Dr. Mohammad Ariful Haque. My primary research interests include **applied deep learning & investigation of neural networks**. Apart from that, I have research experience on optimised load management of Smart Grids (SG). Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** with the help of deep neural networks.
 
-[EEE]: http://www.eee.buet.ac.bd/
+[EEE]: https://www.eee.buet.ac.bd/
 [BUET]: https://www.buet.ac.bd/
-[hci]:http://hci.stanford.edu/
-[hancock]: https://comm.stanford.edu/faculty-hancock/
-[penncis]: https://www.cis.upenn.edu
-[pennasc]: https://www.asc.upenn.edu
-[pacs]: https://pacscenter.stanford.edu
-[pdi]: https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/
-[amh]: http://andrewhead.info
 
 Projects I've worked on include [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], and [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
 
