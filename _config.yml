@@ -5,11 +5,16 @@ url: https://naimulhassan.github.io
 base: ''
 
 markdown: kramdown
-kramdown:
-    enable_coderay: false
-    auto_ids: false
-    entity_output: symbolic
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
 highlighter: rouge
+
+cadeprefix: "/cade-series"
+
+kramdown:
+  input: GFM
+
+liquid:
+  error_mode: lax
 
 exclude:
     - bower_components
@@ -26,7 +31,6 @@ navigation:
     - title: CV
       link: /content/CV.pdf
 
-theme: jekyll-theme-minimal
-
-sass:
-  sass_dir: _sass
+plugins:
+  - jekyll-redirect-from
+  - jekyll-gist
