@@ -21,7 +21,7 @@ exclude:
 navigation:
     - title: about
       link: /index.html
-	name: about
+      name: about
     - title: research
       link: /research.html
     - title: CV
