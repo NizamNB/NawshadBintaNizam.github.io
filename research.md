@@ -4,6 +4,14 @@ layout: longy
 blurb: |
 ---
 
+
+## Submitted/Accepted Research Papers
+1. K. M. Naimul Hassan, Mohammad Ariful Haque, "SS+CEDNet: A Speech Privacy Aware Cough Detection Pipeline by Separating Sources", <i>2022 10th IEEE R-10 Humanitarian Technology Conference (R-10 HTC)</i>. <b>(Accepted)</b>.
+2. K. M. Naimul Hassan, Soumav Biswas, Md. Forkan Uddin, "Peak Load Reduction in Smart Grid by a Hybrid Algorithm for ON-OFF Scheduling of Large Scale Air Conditioning System", <i>Elsevier Sustainable Energy, Grids and Networks</i>. <b>(Submitted)</b>. 
+
+---
+## Published Conference Papers
+
 <style>
 table, th, td {
   border: 10px solid white;
@@ -18,15 +26,6 @@ table, th, td {
           style="max-width: 50%;"/>
           </center></td>
           <td>2022</td>
-     </tr>
-     <tr>
-          <td><a href="http://naimulhassan.github.io/content/papers/doanet-ssl.pdf">DOANet: a deep dilated convolutional neural network approach for search and rescue with drone-embedded sound source localization</a>; Alif Bin Abdul Qayyum, <i>K. M. Naimul Hassan</i>, Adrita Anika, Md. Farhan Shadiq, Md. Mushfiqur Rahman, Md. Tariqul Islam, Sheikh Asif Imran, Shahruk Hossain & Mohammad Ariful Haque; <b>EURASIP Journal on Audio, Speech and Music Processing</b></td>
-          <td>Drone-embedded sound source localization (SSL) has interesting application perspective in challenging search and rescue scenarios due to bad lighting conditions or occlusions. However, the problem gets complicated by severe drone ego-noise that may result in negative signal-to-noise ratios in the recorded microphone signals. In this paper, we present our work on drone-embedded SSL using recordings from an 8-channel cube-shaped microphone array embedded in an unmanned aerial vehicle (UAV). We use angular spectrum-based TDOA (time difference of arrival) estimation methods such as generalized cross-correlation phase-transform (GCC-PHAT), minimum-variance-distortion-less-response (MVDR) as baseline, which are state-of-the-art techniques for SSL. Though we improve the baseline method by reducing ego-noise using speed correlated harmonics cancellation (SCHC) technique, our main focus is to utilize deep learning techniques to solve this challenging problem. Here, we propose an end-to-end deep learning model, called DOANet, for SSL. DOANet is based on a one-dimensional dilated convolutional neural network that computes the azimuth and elevation angles of the target sound source from the raw audio signal. The advantage of using DOANet is that it does not require any hand-crafted audio features or ego-noise reduction for DOA estimation. We then evaluate the SSL performance using the proposed and baseline methods and find that the DOANet shows promising results compared to both the angular spectrum methods with and without SCHC. To evaluate the different methods, we also introduce a well-known parameter—area under the curve (AUC) of cumulative histogram plots of angular deviations—as a performance indicator which, to our knowledge, has not been used as a performance indicator for this sort of problem before.
-          <center style="padding: 10px;">
-          <img src="media/ssl.png"
-          style="max-width: 50%;"/>
-          </center></td>
-          <td>2020</td>
      </tr>
      <tr>
           <td><a href="http://naimulhassan.github.io/content/papers/profile-modelling-sg.pdf">Electrical Power Consumption Profile Modelling of of Air Conditioner for Smart Grid Load Management</a>; <i>K. M. Naimul Hassan</i>, Soumav Biswas & Md. Forkan Uddin; <b>11th International Conference on Electrical and Computer Engineering (ICECE)</b></td>
@@ -44,8 +43,33 @@ table, th, td {
 
 </table>
 
- 
-
+---
+## Published Journal Papers
+<style>
+table, th, td {
+  border: 10px solid white;
+}
+</style>
+<table style='font-size:150%'>
+     <tr>
+          <td><a href="http://naimulhassan.github.io/content/papers/peak-load-min.pdf">Peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors</a>; Md Forkan Uddin, <i>K. M. Naimul Hassan</i>, Soumav Biswas</i>; <b>Elsevier Sustainable Energy, Grids and Networks</b></td>
+          <td>We address the problem of minimizing the peak load by optimal coordinated ON–OFF scheduling of the compressors of air conditioners (ACs) connected in a smart grid. For this purpose, we consider a simplified model of power consumption profile, i.e., on-time and off-time durations and power consumption values of a split type AC. We model the necessary constraints and formulate an optimization problem to minimize the peak load by optimal coordinated ON–OFF scheduling of the AC compressors. The optimization problem is found to be a complex mixed integer linear programming problem. We optimally solve the problem for a small number of ACs by using an optimization tool. Unfortunately, due to the computational complexity, the tool cannot solve the problem for a large number of ACs. For a large number of ACs, we develop a heuristic algorithm to solve the problem. Using the optimization tool and the heuristic algorithm, we determine the peak load, load variance, and energy consumption in operating a number of ACs and compare them with the results obtained for a traditional non-coordinated AC operation. We find that both the optimal and heuristic solution approaches significantly reduce the peak load and load variance with some increment of energy consumption. Further, the computation time of the scheduling of the AC compressors of an air conditioning system under the heuristic algorithm is found to be significantly less compared to the time bound on scheduling computation of the AC compressors even when the number of ACs in the system is large.
+          <center style="padding: 10px;">
+          <img src="peak-load.png"
+          style="max-width: 50%;"/>
+          </center></td>
+          <td>2020</td>
+     </tr>
+     <tr>
+          <td><a href="http://naimulhassan.github.io/content/papers/doanet-ssl.pdf">DOANet: a deep dilated convolutional neural network approach for search and rescue with drone-embedded sound source localization</a>; Alif Bin Abdul Qayyum, <i>K. M. Naimul Hassan</i>, Adrita Anika, Md. Farhan Shadiq, Md. Mushfiqur Rahman, Md. Tariqul Islam, Sheikh Asif Imran, Shahruk Hossain & Mohammad Ariful Haque; <b>EURASIP Journal on Audio, Speech and Music Processing</b></td>
+          <td>Drone-embedded sound source localization (SSL) has interesting application perspective in challenging search and rescue scenarios due to bad lighting conditions or occlusions. However, the problem gets complicated by severe drone ego-noise that may result in negative signal-to-noise ratios in the recorded microphone signals. In this paper, we present our work on drone-embedded SSL using recordings from an 8-channel cube-shaped microphone array embedded in an unmanned aerial vehicle (UAV). We use angular spectrum-based TDOA (time difference of arrival) estimation methods such as generalized cross-correlation phase-transform (GCC-PHAT), minimum-variance-distortion-less-response (MVDR) as baseline, which are state-of-the-art techniques for SSL. Though we improve the baseline method by reducing ego-noise using speed correlated harmonics cancellation (SCHC) technique, our main focus is to utilize deep learning techniques to solve this challenging problem. Here, we propose an end-to-end deep learning model, called DOANet, for SSL. DOANet is based on a one-dimensional dilated convolutional neural network that computes the azimuth and elevation angles of the target sound source from the raw audio signal. The advantage of using DOANet is that it does not require any hand-crafted audio features or ego-noise reduction for DOA estimation. We then evaluate the SSL performance using the proposed and baseline methods and find that the DOANet shows promising results compared to both the angular spectrum methods with and without SCHC. To evaluate the different methods, we also introduce a well-known parameter—area under the curve (AUC) of cumulative histogram plots of angular deviations—as a performance indicator which, to our knowledge, has not been used as a performance indicator for this sort of problem before.
+          <center style="padding: 10px;">
+          <img src="media/ssl.png"
+          style="max-width: 50%;"/>
+          </center></td>
+          <td>2020</td>
+     </tr> 
+</table>
 ---
 
 ## Other Recent Publications
