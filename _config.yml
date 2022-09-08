@@ -24,6 +24,8 @@ navigation:
       name: about
     - title: research
       link: /research
+    - title: achievements
+      link: /achievements
     - title: CV
       link: /content/CV.pdf
 

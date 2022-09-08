@@ -4,10 +4,6 @@ layout: longy
 blurb: |
 ---
 
-## Research 
-
-
-
 ### [ALSNet: A Dilated 1-D CNN for Identifying ALS from Raw EMG Signal][alsnet]
 
 
