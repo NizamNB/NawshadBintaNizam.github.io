@@ -37,6 +37,26 @@ table, th, td {
           </center></td>
           <td>2020</td>
      </tr>
+     <tr>
+          <td><a href="http://naimulhassan.github.io/content/papers/braille.pdf">A Dual-Purpose Refreshable Braille Display Based on Real Time Object Detection and Optical Character Recognition</a>; <i>K. M. Naimul Hassan</i>, Subrata Kumar Biswas, Md Shakil Anwar, Md Shakhrul Iman Siam, Celia Shahnaz; <b>IEEE International Conference on Signal Processing, Information, Communication & Systems (SPICSCON)</b></td>
+          <td>This paper proposes a dual-purpose braille system for the visually impaired people. There are two main features of this system- object detection and optical character recognition. Real time object detection will help a visually impaired person to know about the things around him and optical character recognition will help him reading characters in both international (English) and local community (Bengali) language. In this paper, the detailed methodology of our proposed method is described. A pre-trained convolutional neural network (AlexNet) is used for classifying the objects and an OCR engine (Tesseract) along with basic image processing is used for optical character recognition. A refreshable braille display is also designed to show the braille characters.
+          <center style="padding: 10px;">
+          <img src="media/braille.png"
+          style="max-width: 50%;"/>
+          </center>
+          </center></td>
+          <td>2019</td>
+     </tr>
+     <tr>
+          <td><a href="http://naimulhassan.github.io/content/papers/gsc-beamform.pdf">Direction of Arrival Estimation through Noise Suppression: A Novel Approach using GSC Beamforming and Room Acoustic Simulation</a>; Alif Bin Abdul Abdul Qayyum, Adrita Anika, Md. Messal Monem Miah, Md. Mushfiqur Rahman, <i>K. M. Naimul Hasan</i>, Md. Tariqul Islam, Sheikh Asif Imran Shouborno, Md. Farhan Shadiq, Mohammad Ariful Haque; <b>IEEE International Conference on Signal Processing, Information, Communication & Systems (SPICSCON)</b></td>
+          <td>A novel method for localizing or estimating the direction of a sound source from the speech mixed with different levels of noise recorded by a microphone array embedded in an Unmanned Aerial Vehicle (UAV) has been proposed in this paper. Publicly available DREGON dataset (The IEEE Signal Processing CUP 2019 dataset for static task) has been used. The detail methodology of the system for localizing the sound source in static condition of the UAV is described in this paper. Generalized Sidelobe Canceller (GSC) Beamformer on the noisy audio is used to extract the noise along the rotor directions. This extracted noise is the simulated to synthesize 8 channel audio using pyroomacoustics. Finally the extracted noise is used as the reference of the wiener filter for filtering the noise in the provided noisy audios. GCC PHAT and GCC NON LIN methods are used to estimate the elevation and azimuth of the sound source. Promising results have been found using this method to localize the sound source of human speech from the audios of snr as low as −20 dB recoreded by a microphone array embedded on a UAV. If at most 10° of error in angle is allowed, our proposed method provides an accuracy of almost 91.67%.
+          <center style="padding: 10px;">
+          <img src="media/gsc-beamform.png"
+          style="max-width: 50%;"/>
+          </center>
+          </center></td>
+          <td>2019</td>
+     </tr>
 
      
 
@@ -55,10 +75,10 @@ table, th, td {
           <td><a href="http://naimulhassan.github.io/content/papers/peak-load-min.pdf">Peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors</a>; Md Forkan Uddin, <i>K. M. Naimul Hassan</i>, Soumav Biswas</i>; <b>Elsevier Sustainable Energy, Grids and Networks</b></td>
           <td>We address the problem of minimizing the peak load by optimal coordinated ON–OFF scheduling of the compressors of air conditioners (ACs) connected in a smart grid. For this purpose, we consider a simplified model of power consumption profile, i.e., on-time and off-time durations and power consumption values of a split type AC. We model the necessary constraints and formulate an optimization problem to minimize the peak load by optimal coordinated ON–OFF scheduling of the AC compressors. The optimization problem is found to be a complex mixed integer linear programming problem. We optimally solve the problem for a small number of ACs by using an optimization tool. Unfortunately, due to the computational complexity, the tool cannot solve the problem for a large number of ACs. For a large number of ACs, we develop a heuristic algorithm to solve the problem. Using the optimization tool and the heuristic algorithm, we determine the peak load, load variance, and energy consumption in operating a number of ACs and compare them with the results obtained for a traditional non-coordinated AC operation. We find that both the optimal and heuristic solution approaches significantly reduce the peak load and load variance with some increment of energy consumption. Further, the computation time of the scheduling of the AC compressors of an air conditioning system under the heuristic algorithm is found to be significantly less compared to the time bound on scheduling computation of the AC compressors even when the number of ACs in the system is large.
           <center style="padding: 10px;">
-          <img src="peak-load.png"
+          <img src="media/peak-load.png"
           style="max-width: 50%;"/>
           </center></td>
-          <td>2020</td>
+          <td>2021</td>
      </tr>
      <tr>
           <td><a href="http://naimulhassan.github.io/content/papers/doanet-ssl.pdf">DOANet: a deep dilated convolutional neural network approach for search and rescue with drone-embedded sound source localization</a>; Alif Bin Abdul Qayyum, <i>K. M. Naimul Hassan</i>, Adrita Anika, Md. Farhan Shadiq, Md. Mushfiqur Rahman, Md. Tariqul Islam, Sheikh Asif Imran, Shahruk Hossain & Mohammad Ariful Haque; <b>EURASIP Journal on Audio, Speech and Music Processing</b></td>
@@ -70,9 +90,3 @@ table, th, td {
           <td>2020</td>
      </tr> 
 </table>
----
-
-## Other Recent Publications
-For a complete list of my academic publications, see my [Google Scholar page][scholar].
-
-[scholar]: https://scholar.google.com/citations?user=ondPg7wAAAAJ&hl=en&oi=sra
