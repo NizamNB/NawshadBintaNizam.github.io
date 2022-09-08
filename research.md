@@ -29,7 +29,8 @@ blurb: |
 <br>
 <style>
 table, th, td {
-  border: 10px solid white;
+  border: 20px solid white;
+  text-align: justify;
 }
 </style>
 <table style='font-size:150%'>
@@ -81,6 +82,7 @@ table, th, td {
 <style>
 table, th, td {
   border: 10px solid white;
+  text-align: justify;
 }
 </style>
 <table style='font-size:150%'>
