@@ -3,10 +3,13 @@ title: Research
 layout: longy
 blurb: |
 ---
-
+<br>
+<br>
+<br>
 
 # Submitted/Accepted Research Papers
 <font size="+1">1. K. M. Naimul Hassan, Mohammad Ariful Haque, "SS+CEDNet: A Speech Privacy Aware Cough Detection Pipeline by Separating Sources", <i>2022 10th IEEE R-10 Humanitarian Technology Conference (R-10 HTC)</i>. <b>(Accepted)</b>.
+<br>
 2. K. M. Naimul Hassan, Soumav Biswas, Md. Forkan Uddin, "Peak Load Reduction in Smart Grid by a Hybrid Algorithm for ON-OFF Scheduling of Large Scale Air Conditioning System", <i>Elsevier Sustainable Energy, Grids and Networks</i>. <b>(Submitted)</b>.</font> 
 
 ---
