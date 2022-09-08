@@ -4,9 +4,11 @@ layout: longy
 blurb: |
 ---
 
+<style>
 table, th, td {
-  border: 1px solid white;
+  border: 1px white;
 }
+</style>
 <table style='font-size:150%'>
      <tr>
           <td><a href="http://naimulhassan.github.io/content/papers/alsnet.pdf">ALSNet: A Dilated 1-D CNN for Identifying ALS from Raw EMG Signal</a>; <i>K. M. Naimul Hassan</i>, Md. Shamiul Alam Hridoy, Naima Tasnim, Atia Faria Chowdhury, Tanvir Alam Roni, Sheikh Tabrez, Arik Subhana, Celia Shahnaz; <b>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</b></td>
