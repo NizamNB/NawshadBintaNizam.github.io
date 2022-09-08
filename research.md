@@ -4,38 +4,60 @@ layout: longy
 blurb: |
 ---
 
-## Research
-
-Below is a selection of recent projects; see my [Google Scholar][GS] page for my full publication record.
-
-### Political Bias in Web Search
-**Metaxa, D.**, Park, JS., Landay, JA., and Hancock, J. Search Media and Elections: A Longitudinal Investigation of Political Search Results in the 2018 U.S. Elections. To appear at CSCW 2019.
+## Research 
 
 
-Concern about algorithmically-curated content and its impact on democracy is reaching a fever pitch worldwide. But relative to the role of social media in electoral processes, the role of search results has received less public attention. We develop a theoretical conceptualization of search results as a form of media-_search media_-and analyze search media in the context of political partisanship in the six months leading up to the 2018 U.S. midterm elections. Our empirical analyses use a total of over 4 million URLs, scraped daily from Google search queries for all candidates running for federal office in the United States in 2018. In our first set of analyses we characterize the nature of search media from the data collected in terms of the types of URLs present and the stability of search results over time. In our second, we annotate URLs' top-level domains with existing measures of political partisanship, examining trends by incumbency, election outcome, and other election characteristics. Among other findings, we note that partisanship trends in search media are largely similar for content about candidates from the two major political parties, whereas there are substantial differences in search media for incumbent versus challenger candidates. This work suggests that longitudinal, systematic audits of search media can reflect real-world political trends. We conclude with implications for web search designers and consumers of political content online. 
 
-**Metaxa, D.** and Torres-Echeverry, N. Google's Role in Spreading Fake News and Misinformation. Available at [SSRN][ssrn].
-
-This mixed-methods whitepaper summarizes some of the history of web search and its manipulation in the context of politics, relying on preliminary analysis of data collected around the 2016 U.S. presidential election, as well as a series of interviews with key researchers in the field. 
-
-**Metaxa, D.**, Rusak, G., Teevan, J., and Bernstein, M. The Web is Flat: The Inflation of Uncommon Experiences Online. CHI 2016. _Best Short Paper._
-
-People populate the web with content relevant to their lives, content that millions of others rely on for information and guidance. However, the web is not a perfect representation of lived experience: some topics appear in greater proportion online than their true incidence in our population, while others are deflated. This paper presents a large scale data collection study of this phenomenon. We collect webpages about 21 topics of interest capturing roughly 200,000 webpages, and then compare each topic's popularity to representative national surveys. We find that rare experiences are inflated on the web (by a median of 7x), while common experiences are deflated (by a median of 0.7x). We call this phenomenon novelty bias.
-
-This project is ongoing and with the help of Jared Bitz and Mo Tiwari will soon emerge in a new form: we are using Common Crawl's archive of the web to mine the entire web at different points in time and analyze political opinions online in relation to in public opinion. 
+### [ALSNet: A Dilated 1-D CNN for Identifying ALS from Raw EMG Signal][alsnet]
 
 
-### Gender Bias in Web Interfaces
-**Metaxa, D.**, Wang, K., Landay, J., and Hancock, J. Gender-Inclusive Design: Sense of Belonging and Bias in Web Interfaces. [CHI 2018][chi18]. 
+<center style="padding: 10px;">
+<img src="media/als.jpg"
+     style="max-width: 85%;" />
+</center>
 
-We interact with dozens of web interfaces on a daily basis, making inclusive web design practices more important than ever. This paper investigates the impacts of web interface design on ambient belonging, or the sense of belonging to a community or culture. Our experiment deployed two content-identical webpages for an introductory computer science course, differing only in aesthetic features such that one was perceived as masculine while the other was gender-neutral. Our results confirm that young women exposed to the masculine page are negatively affected, reporting significantly less ambient belonging, interest in the course and in studying computer science broadly. They also experience significantly more concern about others’ perception of their gender relative to young women exposed to the neutral page, while no similar effect is seen in young men. These results suggest that gender biases can be triggered by web design, highlighting the need for inclusive user interface design for the web.
+**K. M. Naimul Hassan**, Md. Shamiul Alam Hridoy, Naima Tasnim, Atia Faria Chowdhury, Tanvir Alam Roni, Sheikh Tabrez, Arik Subhana, Celia Shahnaz _(Published on April 27, 2022 in 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP))_
 
-### Social Ties and Natural Disasters
-**Metaxa, D.**, Maas, P. and Aldrich, DP. How Social Ties Influence Hurricane Evacuation Behavior. [CSCW 2018][cscw19].
+Amyotrophic Lateral Sclerosis (ALS) is one of the most common neuromuscular diseases which affects both lower and upper motor neurons. In this paper, a dilated one dimensional convolutional neural network, named ALSNet, is proposed for identifying ALS from raw EMG signal. No hand-crafted feature extraction is required, rather, ALSNet is able to take raw EMG signal as input and detect EMG signals of ALS subjects. This makes the method more feasible for practical implementation by reducing the computational cost required for extracting features. To our best knowledge, no research work for identification of ALS from raw EMG signal has been conducted yet. The performance of the ALSNet was evaluated using popular metrics such as overall accuracy, sensitivity, specificity and balanced accuracy and compared with other existing methods. The proposed method showed a better performance than the other existing methods with an overall accuracy of 97.74%.
 
-Natural disasters carry enormous costs every year, both in terms of lives and materials. Evacuation from potentially affected areas stands out among the most critical factors that can reduce mortality and vulnerability to crisis. We know surprisingly little about the factors that drive this important and often life-saving behavior, though recent work has suggested that social capital may play a critical and previously underestimated role in disaster preparedness. Moving beyond retrospective self-reporting and vehicle count estimates, we use social media data to examine connections between levels of social capital and evacuation behavior. This work is the first of its kind, examining these phenomena across three major disasters in the United States—Hurricane Harvey, Hurricane Irma, and Hurricane Maria—using aggregated, de-identified data from over 1.5 million Facebook users. Our analysis confirms that, holding confounding factors constant, several aspects of social capital are correlated with whether or not an individual evacuates. Higher levels of bridging and linking social ties correlate strongly with evacuation. However, these social capital related factors are not significantly associated with the rate of return after evacuation.
+[alsnet]: http://naimulhassan.github.io/content/papers/alsnet.pdf 
 
-[ssrn]: https://ssrn.com/abstract=3062984
-[chi18]: https://dl.acm.org/citation.cfm?id=3173574.3174188
-[GS]: https://scholar.google.com/citations?user=6pA2wn4AAAAJ&hl=en&oi=ao
-[cscw19]: https://dl.acm.org/citation.cfm?id=3274391
+
+### [DOANet: a deep dilated convolutional neural network approach for search and rescue with drone-embedded sound source localization][doanet-ssl]
+
+
+<center style="padding: 10px;">
+<img src="media/ssl.png"
+     style="max-width: 85%;" />
+</center>
+
+Alif Bin Abdul Qayyum, **K M Naimul Hassan**, Adrita Anika, Md. Farhan Shadiq, Md. Mushfiqur Rahman, Md. Tariqul Islam, Sheikh Asif Imran, Shahruk Hossain & Mohammad Ariful Haque _(Published on November 5, 2020 in EURASIP Journal on Audio, Speech and Music Processing)_
+
+Drone-embedded sound source localization (SSL) has interesting application perspective in challenging search and rescue scenarios due to bad lighting conditions or occlusions. However, the problem gets complicated by severe drone ego-noise that may result in negative signal-to-noise ratios in the recorded microphone signals. In this paper, we present our work on drone-embedded SSL using recordings from an 8-channel cube-shaped microphone array embedded in an unmanned aerial vehicle (UAV). We use angular spectrum-based TDOA (time difference of arrival) estimation methods such as generalized cross-correlation phase-transform (GCC-PHAT), minimum-variance-distortion-less-response (MVDR) as baseline, which are state-of-the-art techniques for SSL. Though we improve the baseline method by reducing ego-noise using speed correlated harmonics cancellation (SCHC) technique, our main focus is to utilize deep learning techniques to solve this challenging problem. Here, we propose an end-to-end deep learning model, called DOANet, for SSL. DOANet is based on a one-dimensional dilated convolutional neural network that computes the azimuth and elevation angles of the target sound source from the raw audio signal. The advantage of using DOANet is that it does not require any hand-crafted audio features or ego-noise reduction for DOA estimation. We then evaluate the SSL performance using the proposed and baseline methods and find that the DOANet shows promising results compared to both the angular spectrum methods with and without SCHC. To evaluate the different methods, we also introduce a well-known parameter—area under the curve (AUC) of cumulative histogram plots of angular deviations—as a performance indicator which, to our knowledge, has not been used as a performance indicator for this sort of problem before.
+
+[doanet-ssl]: http://naimulhassan.github.io/content/papers/doanet-ssl.pdf
+
+
+
+### [Electrical Power Consumption Profile Modelling of of Air Conditioner for Smart Grid Load Management][profile-modelling]
+
+
+<center style="padding: 10px;">
+<img src="media/sg.png"
+     style="max-width: 85%;" />
+</center>
+
+**K M Naimul Hassan**, Soumav Biswas & Md. Forkan Uddin _(Published in 2020 11th International Conference on Electrical and Computer Engineering (ICECE))_
+
+Air conditioning (AC) system will be an inherent part of smart grid (SG) demand response as it is responsible for a substantial amount of power consumption in total infrastructure. It is invaluable to estimate the nature of operational characteristics of AC compressors in order to implement associated optimization strategy for energy preservation in residential premises. In this paper, the electrical power consumption profile, i.e., On-time and Off-time durations and power consumptions during these time durations is modelled for a split type AC compressor in terms of co-efficient of performance, AC capacity and environment condition. Dead-band temperature and room dimensions are considered as environment condition and the effect of various parameters on On-time and Off-time durations and energy consumption is studied. The factors that can be optimized to reduce the energy consumption are also analyzed.
+
+[profile-modelling]: http://naimulhassan.github.io/content/papers/profile-modelling-sg.pdf
+
+
+
+---
+
+## Other Recent Publications
+For a complete list of my academic publications, see my [Google Scholar page][scholar].
+
+[scholar]: https://scholar.google.com/citations?user=ondPg7wAAAAJ&hl=en&oi=sra
