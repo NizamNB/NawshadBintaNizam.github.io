@@ -9,7 +9,7 @@ blurb: |
 
 <center style="padding: 10px;">
 <img src="media/als.jpg"
-     style="max-width: 85%;" />
+     style="max-width: 50%;" />
 </center>
 
 **K. M. Naimul Hassan**, Md. Shamiul Alam Hridoy, Naima Tasnim, Atia Faria Chowdhury, Tanvir Alam Roni, Sheikh Tabrez, Arik Subhana, Celia Shahnaz _(Published on April 27, 2022 in 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP))_
@@ -24,7 +24,7 @@ Amyotrophic Lateral Sclerosis (ALS) is one of the most common neuromuscular dise
 
 <center style="padding: 10px;">
 <img src="media/ssl.png"
-     style="max-width: 85%;" />
+     style="max-width: 50%;" />
 </center>
 
 Alif Bin Abdul Qayyum, **K M Naimul Hassan**, Adrita Anika, Md. Farhan Shadiq, Md. Mushfiqur Rahman, Md. Tariqul Islam, Sheikh Asif Imran, Shahruk Hossain & Mohammad Ariful Haque _(Published on November 5, 2020 in EURASIP Journal on Audio, Speech and Music Processing)_
@@ -40,7 +40,7 @@ Drone-embedded sound source localization (SSL) has interesting application persp
 
 <center style="padding: 10px;">
 <img src="media/sg.png"
-     style="max-width: 85%;" />
+     style="max-width: 50%;" />
 </center>
 
 **K M Naimul Hassan**, Soumav Biswas & Md. Forkan Uddin _(Published in 2020 11th International Conference on Electrical and Computer Engineering (ICECE))_
