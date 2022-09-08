@@ -5,12 +5,12 @@ blurb: |
 ---
 
 
-## Submitted/Accepted Research Papers
-1. K. M. Naimul Hassan, Mohammad Ariful Haque, "SS+CEDNet: A Speech Privacy Aware Cough Detection Pipeline by Separating Sources", <i>2022 10th IEEE R-10 Humanitarian Technology Conference (R-10 HTC)</i>. <b>(Accepted)</b>.
-2. K. M. Naimul Hassan, Soumav Biswas, Md. Forkan Uddin, "Peak Load Reduction in Smart Grid by a Hybrid Algorithm for ON-OFF Scheduling of Large Scale Air Conditioning System", <i>Elsevier Sustainable Energy, Grids and Networks</i>. <b>(Submitted)</b>. 
+# Submitted/Accepted Research Papers
+<font size="+1">1. K. M. Naimul Hassan, Mohammad Ariful Haque, "SS+CEDNet: A Speech Privacy Aware Cough Detection Pipeline by Separating Sources", <i>2022 10th IEEE R-10 Humanitarian Technology Conference (R-10 HTC)</i>. <b>(Accepted)</b>.
+2. K. M. Naimul Hassan, Soumav Biswas, Md. Forkan Uddin, "Peak Load Reduction in Smart Grid by a Hybrid Algorithm for ON-OFF Scheduling of Large Scale Air Conditioning System", <i>Elsevier Sustainable Energy, Grids and Networks</i>. <b>(Submitted)</b>.</font> 
 
 ---
-## Published Conference Papers
+# Published Conference Papers
 
 <style>
 table, th, td {
@@ -43,7 +43,6 @@ table, th, td {
           <center style="padding: 10px;">
           <img src="media/braille.png"
           style="max-width: 50%;"/>
-          </center>
           </center></td>
           <td>2019</td>
      </tr>
@@ -53,7 +52,6 @@ table, th, td {
           <center style="padding: 10px;">
           <img src="media/gsc-beamform.png"
           style="max-width: 50%;"/>
-          </center>
           </center></td>
           <td>2019</td>
      </tr>
@@ -64,7 +62,7 @@ table, th, td {
 </table>
 
 ---
-## Published Journal Papers
+# Published Journal Papers
 <style>
 table, th, td {
   border: 10px solid white;
