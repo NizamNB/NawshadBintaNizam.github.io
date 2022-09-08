@@ -13,7 +13,7 @@ blurb: |
 2. K. M. Naimul Hassan, Soumav Biswas, Md. Forkan Uddin, "Peak Load Reduction in Smart Grid by a Hybrid Algorithm for ON-OFF Scheduling of Large Scale Air Conditioning System", <i>Elsevier Sustainable Energy, Grids and Networks</i>. <b>(Submitted)</b>.</font> 
 
 ---
-# Deep Learning & Signal Processing
+# Machine/Deep Learning/Signal Processing
 
 <style>
 table, th, td {
