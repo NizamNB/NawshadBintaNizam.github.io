@@ -5,7 +5,7 @@ blurb: |
 ---
 
 
-<table style='font-size:100%'>
+<table style='font-size:200%'>
      <tr>
           <td><a href="http://naimulhassan.github.io/content/papers/alsnet.pdf">ALSNet: A Dilated 1-D CNN for Identifying ALS from Raw EMG Signal</a>; <i>K. M. Naimul Hassan</i>, Md. Shamiul Alam Hridoy, Naima Tasnim, Atia Faria Chowdhury, Tanvir Alam Roni, Sheikh Tabrez, Arik Subhana, Celia Shahnaz; ,<b>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</b></td>
           <td>Amyotrophic Lateral Sclerosis (ALS) is one of the most common neuromuscular diseases which affects both lower and upper motor neurons. In this paper, a dilated one dimensional convolutional neural network, named ALSNet, is proposed for identifying ALS from raw EMG signal. No hand-crafted feature extraction is required, rather, ALSNet is able to take raw EMG signal as input and detect EMG signals of ALS subjects. This makes the method more feasible for practical implementation by reducing the computational cost required for extracting features. To our best knowledge, no research work for identification of ALS from raw EMG signal has been conducted yet. The performance of the ALSNet was evaluated using popular metrics such as overall accuracy, sensitivity, specificity and balanced accuracy and compared with other existing methods. The proposed method showed a better performance than the other existing methods with an overall accuracy of 97.74%.
