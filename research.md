@@ -6,7 +6,7 @@ blurb: |
 
 <style>
 table, th, td {
-  border: 1px solid white;
+  border: 10px solid white;
 }
 </style>
 <table style='font-size:150%'>
