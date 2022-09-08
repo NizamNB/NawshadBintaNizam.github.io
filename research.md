@@ -4,10 +4,10 @@ layout: longy
 blurb: |
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
-<a style="padding-right:20px !important" href="mailto:naimul.hassan273@gmail.com"><i class="fa fa-envelope-o fa-2x"></i></a>
-<a style="padding-right:20px !important" href="content/papers/naimulCV.pdf"><i class="ai ai-cv ai-2x"></i></a>
+<center>
 <a style="padding-right:20px !important" href="https://scholar.google.com/citations?user=ondPg7wAAAAJ&hl=en&oi=sra"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-<a style="padding-right:20px !important" href="https://www.linkedin.com/in/k-m-naimul-hassan/"><i class="fa fa-linkedin-in fa-2x"></i></a>
+<a style="padding-right:20px !important" href="https://www.researchgate.net/profile/K-M-Naimul-Hassan-2"><i class="fa fa-researchgate-in fa-2x"></i></a>
+</center>
 <br>
 <br>
 
