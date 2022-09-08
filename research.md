@@ -69,8 +69,9 @@ table, th, td {
 <br>
 <style>
 table, th, td {
+  border-style: dotted;
   border: 2px solid black;
-  text-align: justify;
+  text-align: center;
 }
 </style>
 <table style='font-size:150%'>
