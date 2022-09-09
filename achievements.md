@@ -17,7 +17,7 @@ table, th, td {
 </style>
 <table style='font-size:150%'>
      <tr>
-          <td><a href="http://naimulhassan.github.io/content/papers/sp2020.pdf">IEEE Signal Processing (SP) Cup 2020: Unsupervised abnormality detection by using intelligent and heterogenous autonomous system</a></td>
+          <td><b>Second Runner-up</b><br><br><a href="http://naimulhassan.github.io/content/papers/sp2020.pdf">IEEE Signal Processing (SP) Cup 2020: Unsupervised abnormality detection by using intelligent and heterogenous autonomous system</a></td>
           <td>Team: BUET Ravenclaw<br>
           Undergraduate Team Members: Shafin Bin Hamid, Munshi Sanowar Raihan, Ashiqur Rasul, Himaddri Roy, Prasun Datta, Mushfiqur Rahman & <i>K M Naimul Hassan</i><br>
           Supervisor: Dr. Mohammad Ariful Haque<br>
@@ -28,7 +28,7 @@ table, th, td {
           </center></td>
      </tr>
      <tr>
-          <td><a href="http://naimulhassan.github.io/content/papers/vip2019.pdf">IEEE Video and Image Processing (VIP) Cup 2019: Privacy-aware office activity recognition from First Person View (FPV) body cameras</a></td>
+          <td><b>First Runner-up</b><br><br><a href="http://naimulhassan.github.io/content/papers/vip2019.pdf">IEEE Video and Image Processing (VIP) Cup 2019: Privacy-aware office activity recognition from First Person View (FPV) body cameras</a></td>
           <td>Team: BUET Ravenclaw<br>
           Undergraduate Team Members: [from left] Sheikh Asif Imran Shouborno, Md. Mushfiqur Rahman, Md. Tariqul Islam & <i>K M Naimul Hassan</i><br>
           Supervisor: Dr. Mohammad Ariful Haque<br>
@@ -38,6 +38,29 @@ table, th, td {
           style="max-width: 50%;" />
           </center></td>
      </tr>
+     <tr>
+          <td><b>Champion in Bangladesh Section & World Finalist</b><br><br>Innovation Challenge, IEEE YESIST12-2019</td>
+          <td>Team: BUET Phoenix<br>
+          Undergraduate Team Members: <i>K M Naimul Hassan</i>, Shakil Anwar, Subrata Biswas, Md. Shakhrul Iman Siam<br>
+          Supervisor: Dr. Celia Shahnaz<br>
+          Final at Stamford University, Hua Hin, Thailand
+          </td>
+     </tr>
+     <tr>
+          <td><b>World Rank-10</b><br><br>IEEE Signal Processing (SP) Cup 2018: Search & rescue with drone-embedded sound source localization</td>
+          <td>Team: BUET Sonorous<br>
+          Undergraduate Team Members: Alif Bin Abdul Qayyum, <i>K. M. Naimul Hassan</i>, Adrita Anika, Md. Farhan Shadiq, Md. Mushfiqur Rahman, Md. Tariqul Islam, Sheikh Asif Imran, Md. Messal Monem Miah<br>
+          Graduate Team Members: Shahruk Hossain<br>
+          Supervisor: Dr. Mohammad Ariful Haque
+          </td>
+     </tr>
+     <tr>
+          <td><b>Champion</b><br><br>Inter University Poster Presentation, Esonance 2017</td>
+          <td>Team: BUET Unsullied<br>
+          Undergraduate Team Members: Shadman Shahid, <i>K. M. Naimul Hassan</i>, Shakil Anwar<br>
+          Final at Islamic University of Technology, Gazipur, Bangladesh
+          </td>
+     </tr>
 
 </table>
 
@@ -45,7 +68,26 @@ table, th, td {
 
 
 ---
-## Other Honors/Achievements
-For a complete list of honor/achievements, see my [Academic CV][academic-cv].
+# Honors
+<font size="+1">
+<ol>
+     <li>Recipient, Post-graduate Fellowship (M.Sc.)</li>
+     <ul>
+          <li>Session:October 2021 - April 2023 
+          <li>Department of Electrical and Electronic Engineering (EEE)</li>
+          <li>Bangladesh University of Engineering and Technology (BUET)</li>
+     </ul>
+     <li>Recipient, Scholarship of Merit (2011-2021)</li>
+     <ul>
+          <li>Intermediate and Secondary Education Board, Bangladesh 
+          <li>Government scholarship for outstanding result in Higher Secondary Certificate (H.S.C), Secondary School Certificate (S.S.C) and Junior School Certificate (J.S.C) examinations</li>
+     </ul>
+     <li>Recipient, Scholarship of Merit (2008-2011)</li>
+     <ul>
+          <li>Primary Education Board, Bangladesh 
+          <li>Government scholarship for outstanding result in Primary Schoralship examination</li>
+     </ul>
+<ol>
 
-[academic-cv]: http://naimulhassan.github.io/content/papers/naimulCV.pdf
+
+</font> 
