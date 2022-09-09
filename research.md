@@ -89,6 +89,6 @@ table, th, td {
           <img src="media/sg.png"
           style="max-width: 50%;"/>
           </center>
-          </center></td>
+          </td>
      </tr>
 </table>
