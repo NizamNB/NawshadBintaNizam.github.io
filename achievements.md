@@ -73,18 +73,18 @@ table, th, td {
 <ol>
      <li>Recipient, Post-graduate Fellowship (M.Sc.)</li>
      <ul>
-          <li>Session:October 2021 - April 2023 
+          <li>Session:October 2021 - April 2023</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET)</li>
      </ul>
      <li>Recipient, Scholarship of Merit (2011-2021)</li>
      <ul>
-          <li>Intermediate and Secondary Education Board, Bangladesh 
+          <li>Intermediate and Secondary Education Board, Bangladesh</li> 
           <li>Government scholarship for outstanding result in Higher Secondary Certificate (H.S.C), Secondary School Certificate (S.S.C) and Junior School Certificate (J.S.C) examinations</li>
      </ul>
      <li>Recipient, Scholarship of Merit (2008-2011)</li>
      <ul>
-          <li>Primary Education Board, Bangladesh 
+          <li>Primary Education Board, Bangladesh</li> 
           <li>Government scholarship for outstanding result in Primary Schoralship examination</li>
      </ul>
 </ol>
