@@ -73,7 +73,7 @@ table, th, td {
 <ol>
      <li>Recipient, Post-graduate Fellowship (M.Sc.)</li>
      <ul>
-          <li>Session:October 2021 - April 2023</li>
+          <li>Session: October 2021 - April 2023</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET)</li>
      </ul>
