@@ -87,7 +87,5 @@ table, th, td {
           <li>Primary Education Board, Bangladesh 
           <li>Government scholarship for outstanding result in Primary Schoralship examination</li>
      </ul>
-<ol>
-
-
+</ol>
 </font> 
