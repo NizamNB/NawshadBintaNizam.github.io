@@ -20,7 +20,6 @@ I love listening to music and playing piano/keyboard. Still a noob though!
 <p align="center"> 
 <a href="media/hobbies/singapore-1.jpeg" target="_blank" rel="noreferrer"> <img src="media/hobbies/singapore-1.jpeg" width="auto" height="250"/> </a>
 <a href="media/hobbies/singapore-2.jpeg" target="_blank" rel="noreferrer"> <img src="media/hobbies/singapore-2.jpeg" width="auto" height="250"/> </a>
-<a href="media/hobbies/singapore-4.jpeg" target="_blank" rel="noreferrer"> <img src="media/hobbies/singapore-4.jpeg" width="auto" height="250"/> </a>
 <a href="media/hobbies/singapore-3.jpg" target="_blank" rel="noreferrer"> <img src="media/hobbies/singapore-3.jpg" width="auto" height="250"/> </a> </p>
 
 ## Taiwan
