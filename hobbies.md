@@ -34,17 +34,17 @@ div.gallery img {
 
 .padding1
 {
-padding: 20px 0px 0px 300px;
+padding: 20px 0px 0px 50px;
 }
 
 .padding2
 {
-padding: 50px 0px 0px 300px;
+padding: 50px 0px 0px 50px;
 }
 
 .padding3
 {
-padding: 0px 0px 0px 300px;
+padding: 0px 0px 0px 50px;
 }
 
 
