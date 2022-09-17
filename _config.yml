@@ -19,13 +19,15 @@ exclude:
     - drafts
 
 navigation:
-    - title: about
+    - title: About
       link: /index
       name: about
-    - title: research
+    - title: Research
       link: /research
-    - title: achievements
+    - title: Awards/Honors
       link: /achievements
+    - title: Hobbies
+      link: hobbies
     - title: CV
       link: /content/CV.pdf
 

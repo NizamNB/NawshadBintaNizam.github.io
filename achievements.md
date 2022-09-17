@@ -1,5 +1,5 @@
 ---
-title: Achievements
+title: Awards/Honors
 layout: longy
 blurb: |
 ---
