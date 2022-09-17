@@ -52,6 +52,8 @@ I love listening to music and playing piano/keyboard. Still a noob though!
 <a href="media/hobbies/bd-1.jpg" target="_blank" rel="noreferrer"> <img src="media/hobbies/bd-1.jpg" width="auto" height="250"/> </a>
 </p> 
 
+<br>
+<br>
 
 # Movies & TV Shows
 <br>
