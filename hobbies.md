@@ -34,12 +34,17 @@ div.gallery img {
 
 .padding1
 {
-padding: 20px 0px 0px 0px;
+padding: 20px 0px 0px 300px;
 }
 
 .padding2
 {
-padding: 50px 0px 0px 0px;
+padding: 50px 0px 0px 300px;
+}
+
+.padding3
+{
+padding: 0px 0px 0px 300px;
 }
 
 
@@ -55,10 +60,10 @@ padding: 50px 0px 0px 0px;
 
 <div class="gallery">
   <a target="_blank" href="media/hobbies/singapore-2.jpeg">
-    <img src="media/hobbies/singapore-2.jpeg" width="600" height="400">
+    <img src="media/hobbies/singapore-2.jpeg" width="600" height="400" class="padding3">
   </a>
   <a target="_blank" href="media/hobbies/singapore-4.jpeg">
-    <img src="media/hobbies/singapore-4.jpeg" width="600" height="400">
+    <img src="media/hobbies/singapore-4.jpeg" width="600" height="400" class="padding3">
   </a>
 </div>
 
@@ -81,7 +86,7 @@ padding: 50px 0px 0px 0px;
 
 <div class="gallery">
   <a target="_blank" href="media/hobbies/taiwan-3.jpg">
-    <img src="media/hobbies/taiwan-3.jpg" width="600" height="400">
+    <img src="media/hobbies/taiwan-3.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
 
@@ -104,7 +109,7 @@ padding: 50px 0px 0px 0px;
 
 <div class="gallery">
   <a target="_blank" href="media/hobbies/thailand-1.jpg">
-    <img src="media/hobbies/thailand-1.jpg" width="600" height="400">
+    <img src="media/hobbies/thailand-1.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
 
@@ -120,7 +125,7 @@ padding: 50px 0px 0px 0px;
 <p align="center">
 <div class="gallery">
   <a target="_blank" href="media/hobbies/bhutan-1.jpg">
-    <img src="media/hobbies/bhutan-1.jpg" width="600" height="400">
+    <img src="media/hobbies/bhutan-1.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
 
@@ -132,7 +137,7 @@ padding: 50px 0px 0px 0px;
 
 <div class="gallery">
   <a target="_blank" href="media/hobbies/bhutan-2.jpg">
-    <img src="media/hobbies/bhutan-2.jpg" width="600" height="400">
+    <img src="media/hobbies/bhutan-2.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
 </p>
@@ -142,19 +147,19 @@ padding: 50px 0px 0px 0px;
 <p align="center">
 <div class="gallery">
   <a target="_blank" href="media/hobbies/bd-1.jpg">
-    <img src="media/hobbies/bd-1.jpg" width="600" height="400">
+    <img src="media/hobbies/bd-1.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="media/hobbies/bd-2.jpg">
-    <img src="media/hobbies/bd-2.jpg" width="600" height="400">
+    <img src="media/hobbies/bd-2.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="media/hobbies/bd-3.jpg">
-    <img src="media/hobbies/bd-3.jpg" width="600" height="400">
+    <img src="media/hobbies/bd-3.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
 </p>
