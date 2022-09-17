@@ -7,7 +7,7 @@ blurb: |
 <center>
 <a style="padding-right:20px !important" href="https://scholar.google.com/citations?user=ondPg7wAAAAJ&hl=en&oi=sra"><i class="ai ai-google-scholar-square ai-5x"></i></a>
 <a style="padding-right:20px !important" href="https://github.com/NaimulHassan"><i class="fa fa-github fa-5x"></i></a>
-<a href="https://www.researchgate.net/profile/K-M-Naimul-Hassan-2"><img src= "media/rg.png" width="40" height="40"/>
+<a href="https://www.researchgate.net/profile/K-M-Naimul-Hassan-2"><img src= "media/rg.png" width="40" height="40"/></a>
 </center>
 <br>
 <br>
