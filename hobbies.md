@@ -51,7 +51,7 @@ padding: 0px 0px 0px 100px;
 </style>
 
 <h2>Singapore</h2>
-<p align="center">
+
 <div class="gallery">
   <a target="_blank" href="media/hobbies/singapore-1.jpeg">
     <img src="media/hobbies/singapore-1.jpeg" width="600" height="400" class="padding1">
@@ -72,12 +72,12 @@ padding: 0px 0px 0px 100px;
     <img src="media/hobbies/singapore-3.jpg" width="600" height="400" class="padding1">
   </a>
 </div>
-</p>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Taiwan</h2>
-<p align="center">
+
 <div class="gallery">
   <a target="_blank" href="media/hobbies/taiwan-1.jpg">
     <img src="media/hobbies/taiwan-1.jpg" width="600" height="400" class="padding1">
@@ -95,12 +95,12 @@ padding: 0px 0px 0px 100px;
     <img src="media/hobbies/taiwan-4.jpg" width="600" height="400" class="padding1">
   </a>
 </div>
-</p>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Thailand</h2>
-<p align="center">
+
 <div class="gallery">
   <a target="_blank" href="media/hobbies/thailand-2.jpg">
     <img src="media/hobbies/thailand-2.jpg" width="600" height="400" class="padding2">
@@ -118,11 +118,11 @@ padding: 0px 0px 0px 100px;
     <img src="media/hobbies/thailand-3.jpg" width="600" height="400" class="padding2">
   </a>
 </div>
-</p>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Bhutan</h2>
-<p align="center">
+
 <div class="gallery">
   <a target="_blank" href="media/hobbies/bhutan-1.jpg">
     <img src="media/hobbies/bhutan-1.jpg" width="600" height="400" class="padding3">
@@ -140,11 +140,11 @@ padding: 0px 0px 0px 100px;
     <img src="media/hobbies/bhutan-2.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
-</p>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Bangladesh</h2>
-<p align="center">
+
 <div class="gallery">
   <a target="_blank" href="media/hobbies/bd-1.jpg">
     <img src="media/hobbies/bd-1.jpg" width="600" height="400" class="padding3">
@@ -162,7 +162,7 @@ padding: 0px 0px 0px 100px;
     <img src="media/hobbies/bd-3.jpg" width="600" height="400" class="padding3">
   </a>
 </div>
-</p>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Movies & TV Shows
