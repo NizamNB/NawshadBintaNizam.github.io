@@ -11,8 +11,23 @@ layout: default
 {{ content }}
 <br>
 <br>
-<p align="center">
-    <font size="+2">
-    <a href="https://naimulhassan.github.io/index">About</a>||<a href="https://naimulhassan.github.io/research">Research</a>||<a href="https://naimulhassan.github.io/achievements">Awards/Honors</a>||<a href="https://naimulhassan.github.io/hobbies">Hobbies</a>||<a href="https://naimulhassan.github.io/content/CV.pdf">CV</a>
-    </font>
-</p>
+
+/* Storing user's device details in a variable*/
+let details = navigator.userAgent;
+  
+/* Creating a regular expression 
+containing some mobile devices keywords 
+to search it in details string*/
+let regexp = /android|iphone|kindle|ipad/i;
+
+/* Using test() method to search regexp in details
+it returns boolean value*/
+let isMobileDevice = regexp.test(details);
+
+if (isMobileDevice) {
+    <p align="center">
+        <font size="+2">
+        <a href="https://naimulhassan.github.io/index">About</a>||<a href="https://naimulhassan.github.io/research">Research</a>||<a href="https://naimulhassan.github.io/achievements">Awards/Honors</a>||<a href="https://naimulhassan.github.io/hobbies">Hobbies</a>||<a href="https://naimulhassan.github.io/content/CV.pdf">CV</a>
+        </font>
+    </p>
+}
