@@ -9,9 +9,7 @@ layout: default
 </div>
 
 {{ content }}
-<br>
-<br>
-
+<script>
 /* Storing user's device details in a variable*/
 let details = navigator.userAgent;
   
@@ -25,9 +23,12 @@ it returns boolean value*/
 let isMobileDevice = regexp.test(details);
 
 if (isMobileDevice) {
+    <br>
+    <br>
     <p align="center">
         <font size="+2">
         <a href="https://naimulhassan.github.io/index">About</a>||<a href="https://naimulhassan.github.io/research">Research</a>||<a href="https://naimulhassan.github.io/achievements">Awards/Honors</a>||<a href="https://naimulhassan.github.io/hobbies">Hobbies</a>||<a href="https://naimulhassan.github.io/content/CV.pdf">CV</a>
         </font>
     </p>
 }
+</script>
