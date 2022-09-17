@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+
+div.fixed {
+    position: fixed;
+}
+
 <html>
     <style>
         .navbar-fixed-top {
@@ -43,6 +48,7 @@
     {{content}}
   </div>
   <div class="col-lg-auto col-sm-10">
+    <div class="fixed">
     <nav class="tabbable tabs-right">
         {% for item in site.navigation %}
         <font size="+2">
@@ -57,6 +63,7 @@
         {% endfor %}
         </font>
       </nav>
+    </div>
   </div>
 </div>
 
