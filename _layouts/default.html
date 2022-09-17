@@ -48,7 +48,6 @@
         {% for item in site.navigation %}
         <font size="+2">
         <a class="nav nav-tabs"
-            position="fixed"
             {% if item.link == shorturl or (item.link == '/blog/' and page.date) %} class="active"
             {% endif %}
             {% if item.name %} title="{{item.name}}"
