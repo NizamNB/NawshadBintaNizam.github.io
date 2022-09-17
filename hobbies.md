@@ -20,7 +20,7 @@ I love listening to music and playing piano/keyboard. Still a noob though!
 div.gallery {
   margin: 5px;
   float: left;
-  width: 180px;
+  width: 360px;
 }
 
 div.gallery:hover {
@@ -161,9 +161,9 @@ padding: 50px 0px 0px 0px;
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Movies & TV Shows
-
+<br>
 I also watch movies and tv shows in my free time. Here are some of my favorites-
-
+<br>
 <p align="center"> 
 <a href="https://www.imdb.com/title/tt0903747/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/pod_public/750/124250.jpg" alt="breaking bad" width="100" height="120"/> </a> 
 <a href="https://www.imdb.com/title/tt3032476/" target="_blank" rel="noreferrer"> <img src="https://pics.filmaffinity.com/Better_Call_Saul_TV_Series-187388662-large.jpg" alt="better call saul" width="100" height="120"/> </a>
