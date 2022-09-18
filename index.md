@@ -14,7 +14,7 @@ I'm a post-graduate (M.Sc.) student from the department of [Electrical and Elect
 [BUET]: https://www.buet.ac.bd/
 [arif sir]: https://scholar.google.com/citations?user=DJUPchAAAAAJ&hl=en
 
-Projects I've worked on include [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [Peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
+Projects I've worked on include [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
 
 [als]: https://doi.org/10.1109/ICASSP43922.2022.9747366
 [sound-source-localization]: https://doi.org/10.1186/s13636-020-00184-2
