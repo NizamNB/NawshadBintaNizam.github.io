@@ -87,7 +87,7 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
           <li>IEEE SPS</li>
           <li>Bangladesh Section</li>
      </ul>
-     <li>Member</li>
+     <li>Student Member</li>
      <ul>
           <li>2017 - Present</li>
           <li>IEEE</li>
