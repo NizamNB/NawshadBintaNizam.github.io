@@ -8,10 +8,11 @@ I first became interested in artificial neural networks (ANN) when I first read 
 
 [ANN]: https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7
 
-I'm a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Research Assistant and selected as a Graduate Fellow (M.Sc.) in the same department, supervised by Prof. Dr. Mohammad Ariful Haque. My primary research interests include **deep learning**, **conversational AI** and **signal processing**. However, I also have research experience on optimised load management of Smart Grids (SG).
+I'm a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Research Assistant and selected as a Graduate Fellow (M.Sc.) in the same department, supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **deep learning**, **conversational AI** and **signal processing**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
 [EEE]: https://eee.buet.ac.bd/
 [BUET]: https://www.buet.ac.bd/
+[arif sir]: https://scholar.google.com/citations?user=DJUPchAAAAAJ&hl=en
 
 Projects I've worked on include [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [Peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
 
