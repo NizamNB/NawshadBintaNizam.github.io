@@ -4,7 +4,7 @@ layout: home
 
 🎉 Welcome to my portfolio!
 
-I first became interested in artificial neural networks (ANN) when I first read a blog by Richard Nagyfi titled as [The differences between Artificial and Biological Neural Networks][ANN]. ANNs are inspired by how millions of neurons in the human brain make decisions. Though there are many differences between artificial and biological neural networks, extensive research to train machines to think like a human brain has always fascinated me. Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** and **dialogue management of open domain social-bots**. I will try to provide updates here.
+I first became interested in artificial neural networks (ANN) when I first read a blog by Richard Nagyfi titled as [The differences between Artificial and Biological Neural Networks][ANN]. ANNs are inspired by how millions of neurons in the human brain make decisions. Though there are many differences between artificial and biological neural networks, extensive research to train machines to think like a human brain has always fascinated me. Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** and **intelligent dialogue management in open domain social-bots**. I will try to provide updates here.
 
 [ANN]: https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7
 
