@@ -29,6 +29,7 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
 ----------
 
 ## Education
+<font size="+0.5">
 <ul>
      <li>Master of Science (M.Sc.)</li>
      <ul>
@@ -55,11 +56,11 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
           <li>Mymensingh Zilla School, Mymensingh, Bangladesh</li>
      </ul>
 </ul>
-
+</font>
 ----------
 
 ## Experience
-
+<font size="+0.5">
 <ul>
      <li>Graduate Fellow</li>
      <ul>
@@ -92,7 +93,7 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
           <li>Bangladesh Section</li>
      </ul>
 </ul>
-
+</font>
 
 
 
