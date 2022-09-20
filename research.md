@@ -68,13 +68,6 @@ table, th, td {
 ---
 # Smart Grid
 
-<style>
-table, th, td {
-  border-style: dotted;
-  border: 2px solid black;
-  text-align: center;
-}
-</style>
 <table style='font-size:150%'>
      <tr>
           <td><a href="http://naimulhassan.github.io/content/papers/peak-load-min.pdf">Peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors</a>; Md Forkan Uddin, <i>K. M. Naimul Hassan</i>, Soumav Biswas; <b>Elsevier Sustainable Energy, Grids and Networks</b>; 2021.<br><br><a href="https://github.com/NaimulHassan/AC-Peak-Load-Minimization"><img src= "https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/></a></td>
