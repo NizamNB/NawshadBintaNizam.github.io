@@ -70,6 +70,7 @@ table, th, td {
 
 ---
 # Smart Grid
+
 <style>
 table, th, td {
   border-style: dotted;
