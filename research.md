@@ -11,7 +11,7 @@ blurb: |
 <br>
 <br>
 
----
+
 # Machine Learning/Deep Learning/Signal Processing
 
 <style>
@@ -62,10 +62,6 @@ table, th, td {
           style="max-width: 50%;"/>
           </center></td>
      </tr>
-
-     
-
-
 </table>
 
 ---
