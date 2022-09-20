@@ -44,18 +44,6 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
      </ul>
-     <li>Higher Secondary School Certificate (H.S.C.)</li>
-     <ul>
-          <li>2013 - 2015</li>
-          <li>Science</li>
-          <li>Notre Dame College (NDC), Dhaka, Bangladesh</li>
-     </ul>
-     <li>Secondary School Certificate (S.S.C.)</li>
-     <ul>
-          <li>2011 - 2013</li>
-          <li>Science</li>
-          <li>Mymensingh Zilla School, Mymensingh, Bangladesh</li>
-     </ul>
 </ul>
 </font>
 ----------
@@ -79,19 +67,6 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
      <ul>
           <li>July 2019 - April 2021</li>
           <li>IEEE SPS BUET SB</li>
-          <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
-     </ul>
-     <li>Member</li>
-     <ul>
-          <li>2017 - Present</li>
-          <li>IEEE SPS</li>
-          <li>Bangladesh Section</li>
-     </ul>
-     <li>Student Member</li>
-     <ul>
-          <li>2017 - Present</li>
-          <li>IEEE</li>
-          <li>Bangladesh Section</li>
      </ul>
 </ul>
 </font>
