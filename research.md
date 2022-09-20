@@ -11,11 +11,6 @@ blurb: |
 <br>
 <br>
 
-# Submitted/Accepted Research Papers
-<font size="+1">1. K. M. Naimul Hassan, Mohammad Ariful Haque, "SS+CEDNet: A Speech Privacy Aware Cough Detection Pipeline by Separating Sources", <i>2022 10th IEEE R-10 Humanitarian Technology Conference (R-10 HTC)</i>. <b>(Accepted)</b>.
-<br>
-2. K. M. Naimul Hassan, Soumav Biswas, Md. Forkan Uddin, "Peak Load Reduction in Smart Grid by a Hybrid Algorithm for ON-OFF Scheduling of Large Scale Air Conditioning System", <i>Elsevier Sustainable Energy, Grids and Networks</i>. <b>(Submitted)</b>.</font> 
-
 ---
 # Machine Learning/Deep Learning/Signal Processing
 
@@ -27,6 +22,14 @@ table, th, td {
 }
 </style>
 <table style='font-size:150%'>
+     <tr>
+          <td><a href="http://naimulhassan.github.io/content/papers/SS+CEDNet.pdf">SS+CEDNet: A Speech Privacy Aware Cough Detection Pipeline by Separating Sources</a>; <i>K. M. Naimul Hassan</i>, Mohammad Ariful Haque; <b>IEEE R-10 Humanitarian Technology Conference (HTC)</b>; 2022.
+          <td>Cough is one of the most distinguishable symptoms for Influenza-like-illness (ILI) and Severe Acute Respiratory Infection (SARI). Considering the recent worldwide COVID-19 pandemic, many types of research are ongoing all around the world for the accurate detection of cough events. But background speech events make it difficult for the algorithms to detect cough events and the performance of the models drops significantly. At the same time, speech privacy is not preserved in the traditional cough detection models. In this paper, we are proposing a pipeline, named SS+CEDNet, to overcome these problems. The pipeline consists of a Source Separation (SS) and a Cough Event Detection (CED) model. The SS model at first separates the cough and speech sources. Finally, the separated cough source is passed through the CED model to detect cough events. The pipeline not only preserves speech privacy by separating the sources but also shows a better cough detection accuracy.
+          <center style="padding: 10px;">
+          <img src="media/ss+cednet.png"
+          style="max-width: 50%;"/>
+          </center></td>
+     </tr>
      <tr>
           <td><a href="http://naimulhassan.github.io/content/papers/alsnet.pdf">ALSNet: A Dilated 1-D CNN for Identifying ALS from Raw EMG Signal</a>; <i>K. M. Naimul Hassan</i>, Md. Shamiul Alam Hridoy, Naima Tasnim, Atia Faria Chowdhury, Tanvir Alam Roni, Sheikh Tabrez, Arik Subhana, Celia Shahnaz; <b>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</b>; 2022.<br><br><a href="https://github.com/NaimulHassan/ALSNet"><img src= "https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/></a></td>
           <td>Amyotrophic Lateral Sclerosis (ALS) is one of the most common neuromuscular diseases which affects both lower and upper motor neurons. In this paper, a dilated one dimensional convolutional neural network, named ALSNet, is proposed for identifying ALS from raw EMG signal. No hand-crafted feature extraction is required, rather, ALSNet is able to take raw EMG signal as input and detect EMG signals of ALS subjects. This makes the method more feasible for practical implementation by reducing the computational cost required for extracting features. To our best knowledge, no research work for identification of ALS from raw EMG signal has been conducted yet. The performance of the ALSNet was evaluated using popular metrics such as overall accuracy, sensitivity, specificity and balanced accuracy and compared with other existing methods. The proposed method showed a better performance than the other existing methods with an overall accuracy of 97.74%.
