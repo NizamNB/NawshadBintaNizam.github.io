@@ -8,8 +8,6 @@ blurb: |
 <a style="padding-right:20px !important" href="https://scholar.google.com/citations?user=ondPg7wAAAAJ&hl=en&oi=sra"><i class="ai ai-google-scholar-square ai-5x"></i></a>
 <a style="padding-right:20px !important" href="https://github.com/NaimulHassan"><i class="fa fa-github fa-5x"></i></a>
 </center>
-<br>
-<br>
 
 
 <style>
