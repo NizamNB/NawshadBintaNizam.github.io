@@ -12,8 +12,6 @@ blurb: |
 <br>
 
 
-# Machine Learning/Deep Learning/Signal Processing
-
 <style>
 table, th, td {
   border-style: dotted;
@@ -21,6 +19,9 @@ table, th, td {
   text-align: center;
 }
 </style>
+
+# Machine Learning/Deep Learning/Signal Processing
+
 <table style='font-size:150%'>
      <tr>
           <td><a href="http://naimulhassan.github.io/content/papers/SS+CEDNet.pdf">SS+CEDNet: A Speech Privacy Aware Cough Detection Pipeline by Separating Sources</a>; <i>K. M. Naimul Hassan</i>, Mohammad Ariful Haque; <b>IEEE R-10 Humanitarian Technology Conference (HTC)</b>; 2022.
