@@ -4,11 +4,9 @@ layout: home
 
 🎉 Welcome to my portfolio!
 
-I first became interested in artificial neural networks (ANN) when I first read a blog by Richard Nagyfi titled as [The differences between Artificial and Biological Neural Networks][ANN]. ANNs are inspired by how millions of neurons in the human brain make decisions. Though there are many differences between artificial and biological neural networks, extensive research to train machines to think like a human brain has always fascinated me. Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** and **intelligent dialogue management in open domain social-bots**. I will try to provide updates here.
+I'm a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Graduate Fellow (M.Sc.) in the same department, supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
-[ANN]: https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7
-
-I'm a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Graduate Fellow (M.Sc.) in the same department, supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
+Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** and **intelligent dialogue management in open domain social-bots**. I will try to provide updates here.
 
 [EEE]: https://eee.buet.ac.bd/
 [BUET]: https://www.buet.ac.bd/
@@ -34,7 +32,7 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
 <ul>
      <li>Master of Science (M.Sc.)</li>
      <ul>
-          <li>July 2021 - Present (Expected to be completed within June 2023)</li>
+          <li>July 2021 - Present (Expected to be completed before June 2023)</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
      </ul>
