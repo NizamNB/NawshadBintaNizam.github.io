@@ -6,7 +6,7 @@ layout: home
 
 Hopefully, I'll start my Ph.D. in [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023!
 
-I'm a Research Assistant (RA) at the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET], supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
+I'm currently a Research Assistant (RA) at the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET], supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
 Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** and **intelligent dialogue management in open domain social-bots**. I will try to provide updates here.
 
