@@ -4,16 +4,22 @@ layout: home
 
 🎉 Welcome to my portfolio!
 
-I'm a post-graduate (M.Sc.) student from the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET]. I have also been working as a Graduate Fellow (M.Sc.) in the same department, supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
+Hopefully, I'll start my Ph.D. in [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023!
+
+I'm a Research Assistant (RA) at the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET], supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
 Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** and **intelligent dialogue management in open domain social-bots**. I will try to provide updates here.
 
+
+[CSE-OSU]: https://cse.osu.edu/
+[OSU]: https://www.osu.edu/
 [EEE]: https://eee.buet.ac.bd/
 [BUET]: https://www.buet.ac.bd/
 [arif sir]: https://scholar.google.com/citations?user=DJUPchAAAAAJ&hl=en
 
-Projects I've worked on include [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
+Projects I've worked on include [speech-privacy-aware cough event detection][ss-ced], [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
 
+[ss-ced]: https://doi.org/10.1109/R10-HTC54060.2022.9929794
 [als]: https://doi.org/10.1109/ICASSP43922.2022.9747366
 [sound-source-localization]: https://doi.org/10.1186/s13636-020-00184-2
 [doa-estimation]: https://doi.org/10.1109/SPICSCON48833.2019.9065151
