@@ -36,12 +36,12 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
 ## Education
 <font size="+0.5">
 <ul>
-     <li>Master of Science (M.Sc.)</li>
+     <!-- <li>Master of Science (M.Sc.)</li>
      <ul>
           <li>July 2021 - Present (Expected to be completed before June 2023)</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
-     </ul>
+     </ul> -->
      <li>Bachelor of Science (B.Sc.)</li>
      <ul>
           <li>February 2016 - February 2021</li>
@@ -55,15 +55,15 @@ P.S. My nickname is "Prangon". I love to travel around the world, listen to musi
 ## Experience
 <font size="+0.5">
 <ul>
-     <li>Graduate Fellow</li>
+     <!-- <li>Graduate Fellow</li>
      <ul>
           <li>December 2021 - Present</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
-     </ul>
+     </ul> -->
      <li>Research Assistant</li>
      <ul>
-          <li>July 2021 - November 2021</li>
+          <li>July 2021 - Present</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
      </ul>

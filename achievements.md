@@ -71,12 +71,12 @@ table, th, td {
 # Honors
 <font size="+1">
 <ol>
-     <li>Recipient, Post-graduate Fellowship (M.Sc.)</li>
+     <!-- <li>Recipient, Post-graduate Fellowship (M.Sc.)</li>
      <ul>
           <li>Session: October 2021 - April 2023</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET)</li>
-     </ul>
+     </ul> -->
      <li>Recipient, Scholarship of Merit (2011-2021)</li>
      <ul>
           <li>Intermediate and Secondary Education Board, Bangladesh</li> 
