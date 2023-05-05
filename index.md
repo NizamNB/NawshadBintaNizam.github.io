@@ -29,7 +29,8 @@ Projects I've worked on include [speech-privacy-aware cough event detection][ss-
 
 I graduated with a B.Sc. degree in [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET] in 2021. 
 
-P.S. My nickname is "Prangon". I love to travel around the world, listen to music, play piano, watch movies/TV shows, watch and play different sports (football, cricket, long tennis and table tennis specifically).
+P.S. I love to travel around the world, listen to music, play piano, watch movies/TV shows, watch and play different sports (football, cricket, long tennis and table tennis specifically).
+<!-- My nickname is "Prangon". -->
 
 ----------
 
