@@ -6,9 +6,9 @@ layout: home
 
 Hopefully, I'll start my Ph.D. in [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023!
 
-I'm currently a Research Assistant (RA) at the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET], supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
+I'm currently a Graduate Fellow and an M.Sc. student at the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET], supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
-Currently I am working on **detection and classification of acoustic sound events (DCASE) in medical environment** and **intelligent dialogue management in open domain social-bots**. I will try to provide updates here.
+Currently I am working on **efficient detection and classification of sound events in medical environment**. I will try to provide updates here.
 
 
 [CSE-OSU]: https://cse.osu.edu/
@@ -37,12 +37,12 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 ## Education
 <font size="+0.5">
 <ul>
-     <!-- <li>Master of Science (M.Sc.)</li>
+     <li>Master of Science (M.Sc.)</li>
      <ul>
-          <li>July 2021 - Present (Expected to be completed before June 2023)</li>
+          <li>July 2021 - Present (Expected to be completed before August 2023)</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
-     </ul> -->
+     </ul>
      <li>Bachelor of Science (B.Sc.)</li>
      <ul>
           <li>February 2016 - February 2021</li>
@@ -56,15 +56,15 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 ## Experience
 <font size="+0.5">
 <ul>
-     <!-- <li>Graduate Fellow</li>
+     <li>Graduate Fellow</li>
      <ul>
           <li>December 2021 - Present</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
-     </ul> -->
+     </ul>
      <li>Research Assistant</li>
      <ul>
-          <li>July 2021 - Present</li>
+          <li>July 2021 - November 2021</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
      </ul>
