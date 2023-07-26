@@ -4,9 +4,12 @@ layout: home
 
 🎉 Welcome to my portfolio!
 
-Hopefully, I'll start my Ph.D. in [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023!
+Hopefully, I'll start my Ph.D. in [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023! I will join the [Audio, Speech and Perceptually-Inspired REsearch (ASPIRE)][ASPIRE] group under the supervision of [Dr. Donald Williamson][williamson-osu].
 
-I'm currently a Graduate Fellow and an M.Sc. student at the department of [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET], supervised by Prof. [Dr. Mohammad Ariful Haque][arif sir]. My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
+[ASPIRE]: https://the-aspire-group.github.io/
+[williamson-osu]: https://engineering.osu.edu/people/williamson.413
+
+My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
 Currently I am working on **efficient detection and classification of sound events in medical environment**. I will try to provide updates here.
 
@@ -27,7 +30,7 @@ Projects I've worked on include [speech-privacy-aware cough event detection][ss-
 [profile-modelling-sg]: https://doi.org/10.1109/ICECE51571.2020.9393101
 [peak-load-sg]: https://doi.org/10.1016/j.segan.2021.100545
 
-I graduated with a B.Sc. degree in [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET] in 2021. 
+I graduated with both M.Sc. and B.Sc. degrees in [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET] in 2023 and 2021 respectively. 
 
 P.S. I love to travel around the world, listen to music, play piano, watch movies/TV shows, watch and play different sports (football, cricket, long tennis and table tennis specifically).
 <!-- My nickname is "Prangon". -->
@@ -39,7 +42,7 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 <ul>
      <li>Master of Science (M.Sc.)</li>
      <ul>
-          <li>July 2021 - Present (Expected to be completed before August 2023)</li>
+          <li>July 2021 - July 2023</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
      </ul>
@@ -58,7 +61,7 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 <ul>
      <li>Graduate Fellow</li>
      <ul>
-          <li>December 2021 - Present</li>
+          <li>December 2021 - July 2023</li>
           <li>Department of Electrical and Electronic Engineering (EEE)</li>
           <li>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
      </ul>
