@@ -4,7 +4,7 @@ layout: home
 
 🎉 Welcome to my portfolio!
 
-Hopefully, I'll start my Ph.D. in [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023! I will join the [Audio, Speech and Perceptually-Inspired REsearch (ASPIRE)][ASPIRE] group under the supervision of [Dr. Donald Williamson][williamson-osu].
+I am a Ph.D. student and currently a Graduate Teaching Associate in the department of [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023. I am also a member of the [Audio, Speech and Perceptually-Inspired REsearch (ASPIRE)][ASPIRE] group under the supervision of [Dr. Donald Williamson][williamson-osu].
 
 [ASPIRE]: https://the-aspire-group.github.io/
 [williamson-osu]: https://engineering.osu.edu/people/williamson.413
@@ -20,8 +20,9 @@ Currently I am working on **efficient detection and classification of sound even
 [BUET]: https://www.buet.ac.bd/
 [arif sir]: https://scholar.google.com/citations?user=DJUPchAAAAAJ&hl=en
 
-Projects I've worked on include [speech-privacy-aware cough event detection][ss-ced], [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
+Projects I've worked on include [efficient sound event detection in the medical environments][asfnet], [speech-privacy-aware cough event detection][ss-ced], [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
 
+[asfnet]: https://doi.org/10.36227/techrxiv.23732205.v1
 [ss-ced]: https://doi.org/10.1109/R10-HTC54060.2022.9929794
 [als]: https://doi.org/10.1109/ICASSP43922.2022.9747366
 [sound-source-localization]: https://doi.org/10.1186/s13636-020-00184-2
