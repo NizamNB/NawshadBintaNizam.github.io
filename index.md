@@ -41,6 +41,12 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 ## Education
 <font size="+0.5">
 <ul>
+     <li>Doctor of Philosophy (Ph.D.)</li>
+     <ul>
+          <li>August 2023 - Present</li>
+          <li>Department of Computer Science and Engineering (CSE)</li>
+          <li>The Ohio State University, Columbus, Ohio, USA</li>
+     </ul>
      <li>Master of Science (M.Sc.)</li>
      <ul>
           <li>July 2021 - July 2023</li>
@@ -60,6 +66,12 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 ## Experience
 <font size="+0.5">
 <ul>
+     <li>Graduate Teaching Associate</li>
+     <ul>
+          <li>August 2023 - Present</li>
+          <li>Department of Computer Science and Engineering (CSE)</li>
+          <li>The Ohio State University, Columbus, Ohio, USA</li>
+     </ul>
      <li>Graduate Fellow</li>
      <ul>
           <li>December 2021 - July 2023</li>
