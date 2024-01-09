@@ -11,7 +11,7 @@ I am a Ph.D. student and currently a Graduate Teaching Associate in the departme
 
 My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
-Currently I am working on **efficient detection and classification of sound events in medical environment**. I will try to provide updates here.
+Currently I am working on **auditory attention and EEG decoding**. I will try to provide updates here.
 
 
 [CSE-OSU]: https://cse.osu.edu/
