@@ -9,9 +9,9 @@ I am a Ph.D. student and currently a Graduate Teaching Associate in the departme
 [ASPIRE]: https://the-aspire-group.github.io/
 [williamson-osu]: https://engineering.osu.edu/people/williamson.413
 
-My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, **conversational AI** and **ubiquitous computing**. However, I also have research experience on optimised load management of Smart Grids (SG).
+My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, and  **auditory attention detection**. However, I also have research experience on optimised load management of Smart Grids (SG).
 
-Currently I am working on **auditory attention and EEG decoding**. I will try to provide updates here.
+Currently I am working on **auditory attention detection and EEG decoding**. I will try to provide updates here.
 
 
 [CSE-OSU]: https://cse.osu.edu/
