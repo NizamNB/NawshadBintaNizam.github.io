@@ -9,9 +9,9 @@ I am a Ph.D. student and currently a Graduate Research/Teaching Associate in the
 [ASPIRE]: https://the-aspire-group.github.io/
 [williamson-osu]: https://engineering.osu.edu/people/williamson.413
 
-My primary research interests include **applied machine learning/deep learning**, **audio informatics**, **healthcare**, **signal processing**, and  **auditory attention detection**. However, I also have research experience on optimised load management of Smart Grids (SG).
+My primary research interests include **auditory attention detection**, **Brain-Computer Interface**, **applied machine learning/deep learning**, **audio informatics**, **healthcare**, and **signal processing**.
 
-Currently I am working on **auditory attention detection and EEG decoding**. I will try to provide updates here.
+Currently I am working on **An Audio-Video based Listening Study to Determine Physical and Neural Cues that Correlate with Speech Attention.**.
 
 
 [CSE-OSU]: https://cse.osu.edu/
@@ -20,7 +20,7 @@ Currently I am working on **auditory attention detection and EEG decoding**. I w
 [BUET]: https://www.buet.ac.bd/
 [arif sir]: https://scholar.google.com/citations?user=DJUPchAAAAAJ&hl=en
 
-Projects I've worked on include [efficient sound event detection in the medical environments][asfnet], [speech-privacy-aware cough event detection][ss-ced], [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille], [peak load minimization in smart grid by optimal coordinated ON–OFF scheduling of air conditioning compressors][peak-load-sg] and [electrical power consumption profile modelling of air conditioner for Smart Grid load management][profile-modelling-sg].
+Notable Projects I've worked on include [efficient sound event detection in the medical environments][asfnet], [speech-privacy-aware cough event detection][ss-ced], [identifying ALS from raw EMG signal][als], [search and rescue with drone-embedded sound source localization][sound-source-localization], [direction of arrival estimation through noise suppression][doa-estimation], and [dual-purpose refreshable braille display based on real time object detection and optical character recognition][braille].
 
 [asfnet]: https://doi.org/10.36227/techrxiv.23732205.v1
 [ss-ced]: https://doi.org/10.1109/R10-HTC54060.2022.9929794
@@ -28,8 +28,6 @@ Projects I've worked on include [efficient sound event detection in the medical 
 [sound-source-localization]: https://doi.org/10.1186/s13636-020-00184-2
 [doa-estimation]: https://doi.org/10.1109/SPICSCON48833.2019.9065151
 [braille]: https://doi.org/10.1109/SPICSCON48833.2019.9065110
-[profile-modelling-sg]: https://doi.org/10.1109/ICECE51571.2020.9393101
-[peak-load-sg]: https://doi.org/10.1016/j.segan.2021.100545
 
 I graduated with both M.Sc. and B.Sc. degrees in [Electrical and Electronic Engineering][EEE] at [Bangladesh University of Engineering and Technology (BUET)][BUET] in 2023 and 2021 respectively. 
 

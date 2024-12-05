@@ -71,11 +71,19 @@ table, th, td {
 # Honors
 <font size="+1">
 <ol>
-     <li>Recipient, Post-graduate Fellowship (M.Sc.)</li>
+     <li>Recipient, IEEE SPS Scholarship</li>
      <ul>
-          <li>Session: October 2021 - April 2023</li>
-          <li>Department of Electrical and Electronic Engineering (EEE)</li>
-          <li>Bangladesh University of Engineering and Technology (BUET)</li>
+          <li>Session: 2024 - Present</li>
+     </ul>
+     <li>Recipient, IEEE SPS Scholarship</li>
+     <ul>
+          <li>Session: 2024 - Present</li>
+     </ul>
+     <li>Recipient, CSE Scarlet and Gray Award</li>
+     <ul>
+          <li>Session: 2023 - Present</li>
+          <li>Department of Computer Science and Engineering (CSE)</li>
+          <li>The Ohio State University</li>
      </ul>
      <li>Recipient, Scholarship of Merit (2011-2021)</li>
      <ul>
