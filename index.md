@@ -4,7 +4,7 @@ layout: home
 
 🎉 Welcome to my portfolio!
 
-I am a Ph.D. student and currently a Graduate Teaching Associate in the department of [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023. I am also a member of the [Audio, Speech and Perceptually-Inspired REsearch (ASPIRE)][ASPIRE] group under the supervision of [Dr. Donald Williamson][williamson-osu].
+I am a Ph.D. student and currently a Graduate Research/Teaching Associate in the department of [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023. I am also a member of the [Audio, Speech and Perceptually-Inspired REsearch (ASPIRE)][ASPIRE] group under the supervision of [Dr. Donald Williamson][williamson-osu].
 
 [ASPIRE]: https://the-aspire-group.github.io/
 [williamson-osu]: https://engineering.osu.edu/people/williamson.413
@@ -66,7 +66,7 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 ## Experience
 <font size="+0.5">
 <ul>
-     <li>Graduate Teaching Associate</li>
+     <li>Graduate Research/Teaching Associate</li>
      <ul>
           <li>August 2023 - Present</li>
           <li>Department of Computer Science and Engineering (CSE)</li>
