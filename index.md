@@ -95,11 +95,14 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 <style>
     .blink {
         animation: blink-animation 1s step-start 0s infinite;
+        font-size: 30px; /* Make the text larger */
+        color: #FF6347; /* Tomato color */
+        font-weight: bold; /* Optional: Make the text bold */
     }
 
     @keyframes blink-animation {
         50% {
-            opacity: 0;
+            opacity: 0.3;
         }
     }
 </style>
