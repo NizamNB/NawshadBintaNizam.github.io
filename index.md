@@ -9,11 +9,11 @@ I am a Ph.D. student and currently a Graduate Research/Teaching Associate in the
 [ASPIRE]: https://the-aspire-group.github.io/
 [williamson-osu]: https://engineering.osu.edu/people/williamson.413
 
-My primary research interests include **auditory attention detection**, **brain-computer interface**, **applied machine learning/deep learning**, **audio informatics**, **healthcare**, and **signal processing**.
+My primary research interests include **auditory attention detection**, **brain-computer interface**, **applied machine learning/deep learning**, **audio informatics**, **healthcare**, and **signal processing**. <span class="blink">Please go through my [Research Statement] to get an overview.</span>
 
 Currently I am working on **An Audio-Video based Listening Study to Determine Physical and Neural Cues that Correlate with Speech Attention.**.
 
-
+[Research Statement]: /content/Research_Statement.pdf
 [CSE-OSU]: https://cse.osu.edu/
 [OSU]: https://www.osu.edu/
 [EEE]: https://eee.buet.ac.bd/
@@ -92,3 +92,14 @@ P.S. I love to travel around the world, listen to music, play piano, watch movie
 
 
 
+<style>
+    .blink {
+        animation: blink-animation 1s step-start 0s infinite;
+    }
+
+    @keyframes blink-animation {
+        50% {
+            opacity: 0;
+        }
+    }
+</style>
