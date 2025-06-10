@@ -4,12 +4,14 @@ layout: home
 
 🎉 Welcome to my portfolio!
 
-I am a Ph.D. student and currently a Graduate Research/Teaching Associate in the department of [Computer Science Engineering][CSE-OSU] at [The Ohio State University][OSU] from Fall 2023. I am also a member of the [Audio, Speech and Perceptually-Inspired REsearch (ASPIRE)][ASPIRE] group under the supervision of [Dr. Donald Williamson][williamson-osu].
+I am a Ph.D. student and currently a Graduate Student Researcherc in the department of [Bioengineering][BioE-UPitt] at [University of Pittsburgh][UPitt] from Fall 2024. I am also a member of the [Neuroscience of Aging Research (ARGO)][ARGO] and the [Studying emotional control circuits (Stujenske Lab)][Stujenske Lab] groups under the supervision of [Dr. Helmet Karim][Karim-UPitt] and [Dr. Joseph Stujenske][Stujenske-UPitt].
 
-[ASPIRE]: https://the-aspire-group.github.io/
-[williamson-osu]: https://engineering.osu.edu/people/williamson.413
+[ARGO]: https://argo.pitt.edu/
+[Karim-UPitt]: https://psychiatry.pitt.edu/about-us/our-people/faculty/helmet-t-karim-phd
+[Stujenske Lab]: https://stujenske-lab.github.io/
+[Stujenske-UPitt]: https://www.cnup.pitt.edu/people/ant-324
 
-My primary research interests include **auditory attention detection**, **brain-computer interface**, **applied machine learning/deep learning**, **audio informatics**, **healthcare**, and **signal processing**. <span class="blink">Please go through my [Research Statement] to get an overview.</span>
+My primary research interests include **Brain Mapping**, **Spatial Transcriptomics**, **Applied machine learning/Deep learning**, **Neuroimaging**, **healthcare**, and **signal processing**. <span class="blink">Please go through my [Research Statement] to get an overview.</span>
 
 Currently I am working on **An Audio-Video based Listening Study to Determine Physical and Neural Cues that Correlate with Speech Attention.**.
 
